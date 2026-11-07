@@ -1,0 +1,4301 @@
+city,state,total_revenue,total_orders
+sao paulo,SP,1914924.54,15402
+rio de janeiro,RJ,992538.86,6834
+belo horizonte,MG,355611.13,2750
+brasilia,DF,301920.25,2116
+curitiba,PR,211738.06,1510
+porto alegre,RS,190562.08,1372
+campinas,SP,187844.53,1429
+salvador,BA,181104.42,1238
+guarulhos,SP,144268.39,1178
+niteroi,RJ,117907.12,845
+goiania,GO,106111.17,687
+sao bernardo do campo,SP,104540.99,928
+santos,SP,98777.09,706
+fortaleza,CE,97868.06,650
+santo andre,SP,92028.6,792
+recife,PE,89803.01,612
+florianopolis,SC,85925.99,565
+osasco,SP,82157.86,742
+jundiai,SP,81310.3,560
+belem,PA,80078.49,441
+sao jose dos campos,SP,78650.94,686
+sorocaba,SP,76551.76,624
+ribeirao preto,SP,65637.01,508
+juiz de fora,MG,65140.77,426
+nova iguacu,RJ,60234.09,439
+campo grande,MS,57121.67,315
+joao pessoa,PB,53164.81,254
+vitoria,ES,53160.79,377
+sao goncalo,RJ,52514.84,406
+piracicaba,SP,52307.98,366
+mogi das cruzes,SP,52007.78,379
+barueri,SP,51328.35,429
+sao luis,MA,51026.91,348
+teresina,PI,49967.43,280
+contagem,MG,49542.22,423
+uberlandia,MG,48551.97,372
+vila velha,ES,48285.18,333
+sao jose do rio preto,SP,47070.55,333
+londrina,PR,46465.26,303
+maceio,AL,44702.48,246
+maua,SP,43639.96,319
+bauru,SP,39462.26,270
+cuiaba,MT,39171.17,248
+praia grande,SP,39158.38,306
+caxias do sul,RS,38480.07,224
+maringa,PR,37862.29,267
+indaiatuba,SP,37334.1,278
+aracaju,SE,36507.8,220
+serra,ES,36357.33,285
+natal,RN,35929.37,205
+taboao da serra,SP,35733.3,290
+divinopolis,MG,35301.77,135
+joinville,SC,34772.57,263
+campos dos goytacazes,RJ,34660.36,238
+duque de caxias,RJ,34029.68,263
+marilia,SP,33904.28,196
+volta redonda,RJ,33354.0,228
+petropolis,RJ,33230.1,238
+sao caetano do sul,SP,32452.6,275
+carapicuiba,SP,32235.88,325
+santa maria,RS,31765.81,194
+macae,RJ,31337.8,237
+cotia,SP,31082.38,248
+betim,MG,29992.31,201
+guaruja,SP,29773.76,224
+sao carlos,SP,29743.95,233
+taubate,SP,29724.56,267
+diadema,SP,29393.24,284
+uberaba,MG,28688.24,189
+nova friburgo,RJ,28024.89,150
+feira de santana,BA,27652.19,185
+canoas,RS,26785.25,209
+montes claros,MG,26690.89,211
+presidente prudente,SP,26196.13,160
+suzano,SP,25334.87,233
+americana,SP,24926.37,221
+blumenau,SC,24755.36,187
+cascavel,PR,23695.62,148
+santana de parnaiba,SP,23294.05,182
+limeira,SP,23083.89,189
+valinhos,SP,22546.55,183
+franca,SP,22443.73,159
+pelotas,RS,22387.13,184
+ipatinga,MG,21957.22,171
+porto velho,RO,21938.53,109
+sumare,SP,21487.92,181
+jaboatao dos guararapes,PE,21405.16,135
+pouso alegre,MG,21372.21,131
+sao vicente,SP,21107.09,163
+nova lima,MG,20962.05,98
+atibaia,SP,20913.21,157
+embu das artes,SP,20727.72,164
+manaus,AM,20652.56,139
+araraquara,SP,20352.07,154
+sao jose,SC,20350.46,168
+rio das ostras,RJ,20268.71,136
+braganca paulista,SP,20127.62,144
+rio claro,SP,20124.58,152
+barra mansa,RJ,20086.96,121
+novo hamburgo,RS,19847.08,122
+governador valadares,MG,19659.05,139
+itaquaquecetuba,SP,19365.24,171
+itajai,SC,19348.57,120
+gravatai,RS,19110.02,112
+ponta grossa,PR,18923.38,142
+angra dos reis,RJ,18893.04,85
+sao joao de meriti,RJ,18796.24,132
+jacarei,SP,18479.13,193
+itapevi,SP,18348.91,170
+ananindeua,PA,18075.24,88
+palmas,TO,17821.1,90
+cariacica,ES,17574.58,138
+campina grande,PB,17500.53,68
+sete lagoas,MG,17308.35,127
+araruama,RJ,17199.19,77
+pocos de caldas,MG,17190.35,119
+cabo frio,RJ,17182.67,116
+anapolis,GO,17179.78,112
+botucatu,SP,17179.5,101
+teresopolis,RJ,17115.29,119
+balneario camboriu,SC,16958.38,100
+patos de minas,MG,16791.97,100
+aracatuba,SP,16733.59,139
+paulinia,SP,16658.69,129
+hortolandia,SP,16523.21,145
+rio grande,RS,16516.78,124
+vitoria da conquista,BA,16497.2,90
+vicosa,MG,16401.25,89
+mage,RJ,16186.65,111
+cachoeiro de itapemirim,ES,15871.63,121
+ferraz de vasconcelos,SP,15768.28,111
+marica,RJ,15670.96,138
+criciuma,SC,15422.08,92
+chapeco,SC,15322.25,103
+passo fundo,RS,15223.21,113
+sao jose dos pinhais,PR,15124.05,131
+guaratingueta,SP,14751.12,96
+birigui,SP,14611.34,78
+aparecida de goiania,GO,14554.46,110
+petrolina,PE,14313.0,65
+varginha,MG,14223.0,89
+itajuba,MG,14115.6,94
+belford roxo,RJ,13932.95,111
+rio branco,AC,13904.32,70
+nilopolis,RJ,13718.18,107
+caieiras,SP,13624.52,100
+resende,RJ,13545.25,117
+caraguatatuba,SP,13536.86,88
+araras,SP,13327.37,94
+lavras,MG,13297.75,83
+olinda,PE,13149.78,93
+araxa,MG,13136.21,76
+santa barbara d'oeste,SP,13072.08,118
+pindamonhangaba,SP,13070.16,101
+jaragua do sul,SC,12966.56,89
+porto seguro,BA,12890.09,40
+itu,SP,12707.03,135
+ribeirao das neves,MG,12674.44,99
+ourinhos,SP,12543.03,77
+mogi-guacu,SP,12453.82,91
+barbacena,MG,12296.61,80
+rondonopolis,MT,12243.04,65
+itapetininga,SP,12232.88,77
+linhares,ES,12211.41,65
+assis,SP,12199.23,84
+itatiba,SP,12049.31,97
+sao joao da boa vista,SP,11786.81,81
+amparo,SP,11751.58,66
+foz do iguacu,PR,11586.38,87
+santa luzia,MG,11566.46,91
+macapa,AP,11451.92,54
+palhoca,SC,11440.12,94
+sobral,CE,11368.84,35
+tatui,SP,11331.03,73
+lages,SC,11281.11,83
+sao leopoldo,RS,11064.67,104
+barreiras,BA,11043.93,52
+muriae,MG,11015.42,64
+votorantim,SP,10901.22,85
+araguari,MG,10869.52,54
+varzea paulista,SP,10780.18,78
+salto,SP,10709.39,94
+gaspar,SC,10643.04,30
+tubarao,SC,10606.13,60
+itabira,MG,10544.49,79
+guarapari,ES,10544.41,67
+itanhaem,SP,10506.24,79
+santa cruz do sul,RS,10360.88,62
+cacapava,SP,10160.07,74
+catanduva,SP,10149.83,75
+ribeirao pires,SP,10149.63,107
+franco da rocha,SP,10122.2,109
+toledo,PR,10053.64,70
+jatai,GO,10040.37,54
+cajamar,SP,9873.27,99
+caratinga,MG,9690.26,62
+sao roque,SP,9602.33,78
+caruaru,PE,9535.69,64
+bertioga,SP,9520.55,48
+barretos,SP,9500.97,73
+jau,SP,9460.56,73
+rio verde,GO,9450.0,64
+bage,RS,9435.64,63
+conselheiro lafaiete,MG,9434.37,84
+francisco morato,SP,9365.31,98
+poa,SP,9343.45,85
+cachoeirinha,RS,9297.25,72
+paranagua,PR,9244.45,60
+lins,SP,9189.96,55
+vinhedo,SP,9152.87,94
+mesquita,RJ,9132.02,75
+mairipora,SP,9087.38,75
+pato branco,PR,9047.64,53
+mogi mirim,SP,9010.97,76
+lauro de freitas,BA,8954.88,75
+dourados,MS,8907.7,64
+ilheus,BA,8906.74,72
+ubatuba,SP,8900.83,76
+sao sebastiao,SP,8880.36,59
+itapecerica da serra,SP,8738.78,98
+arapiraca,AL,8728.71,29
+pinhais,PR,8711.82,67
+guarapuava,PR,8625.45,64
+pirassununga,SP,8550.33,69
+itabuna,BA,8523.72,61
+manhuacu,MG,8510.0,64
+jaguariuna,SP,8502.37,61
+paracatu,MG,8430.41,63
+brusque,SC,8421.55,60
+lagoa santa,MG,8400.97,59
+avare,SP,8382.97,63
+votuporanga,SP,8372.9,63
+luis eduardo magalhaes,BA,8343.87,36
+sao joao del rei,MG,8297.97,67
+jandira,SP,8260.47,84
+araguaina,TO,8203.54,41
+leme,SP,8152.92,50
+videira,SC,8107.6,47
+lajeado,RS,8068.41,50
+lorena,SP,7965.02,83
+itauna,MG,7942.95,57
+nova serrana,MG,7856.26,51
+timoteo,MG,7783.77,53
+teofilo otoni,MG,7744.23,75
+boa vista,RR,7739.53,45
+juazeiro,BA,7677.28,44
+aruja,SP,7614.78,69
+colombo,PR,7531.9,61
+itapira,SP,7519.54,54
+parnamirim,RN,7518.67,59
+francisco beltrao,PR,7491.38,52
+fernandopolis,SP,7445.06,53
+tres lagoas,MS,7431.32,42
+boituva,SP,7412.05,49
+ibirite,MG,7410.68,50
+camacari,BA,7294.22,61
+apucarana,PR,7283.7,52
+campo mourao,PR,7259.52,56
+paranavai,PR,7228.95,46
+tres rios,RJ,7227.52,39
+matao,SP,7207.71,52
+imperatriz,MA,7171.38,40
+para de minas,MG,7162.08,37
+itaborai,RJ,7134.27,60
+ponte nova,MG,7106.89,40
+jacobina,BA,7079.66,24
+varzea grande,MT,7043.05,41
+juazeiro do norte,CE,7034.78,34
+cubatao,SP,6996.03,79
+itaperuna,RJ,6963.57,47
+joao monlevade,MG,6959.85,51
+eunapolis,BA,6944.8,38
+colatina,ES,6925.51,65
+sertaozinho,SP,6884.13,62
+ouro preto,MG,6861.56,56
+bento goncalves,RS,6828.56,55
+unai,MG,6825.39,54
+patrocinio,MG,6817.53,46
+pirapora,MG,6803.07,42
+andradina,SP,6794.42,43
+navegantes,SC,6783.17,31
+cosmopolis,SP,6747.8,52
+lencois paulista,SP,6720.22,43
+jaboticabal,SP,6706.02,54
+peruibe,SP,6681.02,44
+viamao,RS,6655.1,73
+arapongas,PR,6617.96,34
+paracambi,RJ,6571.96,35
+sao mateus,ES,6569.97,47
+esteio,RS,6521.86,41
+paulo afonso,BA,6492.59,39
+tupa,SP,6483.03,52
+erechim,RS,6478.28,58
+sinop,MT,6474.65,44
+itaguai,RJ,6417.74,48
+valenca,BA,6373.59,35
+uba,MG,6369.76,53
+itapeva,SP,6360.23,52
+mococa,SP,6295.97,34
+registro,SP,6288.47,46
+cachoeira do sul,RS,6288.32,32
+osorio,RS,6251.24,35
+alagoinhas,BA,6249.23,40
+embu-guacu,SP,6244.68,46
+primavera do leste,MT,6232.81,28
+alvorada,RS,6207.73,50
+vespasiano,MG,6172.59,43
+queimados,RJ,6156.75,54
+sao miguel do oeste,SC,6155.72,40
+itapema,SC,6109.87,44
+cruzeiro,SP,6109.5,56
+guaxupe,MG,6081.17,37
+rolandia,PR,6061.03,27
+artur nogueira,SP,6029.68,41
+taio,SC,5965.23,15
+concordia,SC,5963.39,50
+olimpia,SP,5862.54,37
+caucaia,CE,5856.66,35
+mirassol,SP,5850.89,29
+vargem grande paulista,SP,5833.55,44
+lucas do rio verde,MT,5807.76,24
+umuarama,PR,5770.52,40
+paulista,PE,5736.77,41
+sapucaia do sul,RS,5683.84,40
+ijui,RS,5584.45,52
+batatais,SP,5574.8,28
+ituiutaba,MG,5547.87,55
+barra do pirai,RJ,5543.41,54
+curvelo,MG,5541.0,43
+catalao,GO,5454.03,34
+valparaiso de goias,GO,5437.85,37
+santo angelo,RS,5433.26,46
+adamantina,SP,5425.97,36
+guaiba,RS,5417.51,31
+arcos,MG,5391.73,25
+santarem,PA,5387.66,44
+mongagua,SP,5367.53,42
+itupeva,SP,5355.51,44
+alfenas,MG,5350.32,43
+maracanau,CE,5342.73,34
+santo antonio de padua,RJ,5330.88,31
+caldas novas,GO,5301.63,36
+formosa,GO,5282.15,34
+balsas,MA,5274.43,17
+arraial do cabo,RJ,5237.89,29
+gurupi,TO,5229.29,24
+altamira,PA,5168.15,25
+itumbiara,GO,5156.12,36
+santa barbara,MG,5118.21,26
+sao jose do rio pardo,SP,5106.24,44
+santo antonio da patrulha,RS,5100.08,17
+tucurui,PA,5096.7,17
+araucaria,PR,5086.1,54
+uniao da vitoria,PR,5081.93,29
+itabirito,MG,5078.13,29
+pedro leopoldo,MG,5057.01,40
+mandaguari,PR,5039.15,18
+santo antonio de posse,SP,5027.89,20
+campo limpo paulista,SP,5013.34,48
+bebedouro,SP,4992.89,51
+salinas,MG,4986.77,22
+campo novo do parecis,MT,4970.79,16
+piraju,SP,4954.98,18
+montenegro,RS,4910.6,32
+tremembe,SP,4876.03,38
+mossoro,RN,4875.46,36
+sao bento do sul,SC,4869.9,44
+cianorte,PR,4863.67,39
+armacao dos buzios,RJ,4836.4,29
+sao sebastiao do paraiso,MG,4800.05,35
+bom jesus do galho,MG,4795.29,4
+rio do sul,SC,4777.85,35
+louveira,SP,4777.82,44
+penapolis,SP,4776.58,37
+luziania,GO,4761.46,33
+capivari,SP,4753.16,34
+caceres,MT,4750.19,25
+joacaba,SC,4721.0,26
+corumba,MS,4700.17,27
+juina,MT,4695.32,17
+telemaco borba,PR,4693.49,34
+capao da canoa,RS,4692.09,38
+jequie,BA,4687.84,34
+bom despacho,MG,4680.53,38
+saquarema,RJ,4673.05,46
+sao pedro da aldeia,RJ,4672.43,46
+simoes filho,BA,4671.48,21
+fazenda rio grande,PR,4655.49,29
+uruguaiana,RS,4653.96,48
+taquaritinga,SP,4604.03,33
+carangola,MG,4592.0,27
+guanambi,BA,4589.57,37
+cataguases,MG,4584.86,33
+canoinhas,SC,4583.01,27
+cacador,SC,4569.38,40
+monte mor,SP,4544.84,39
+dracena,SP,4538.05,27
+tres coracoes,MG,4493.83,41
+extrema,MG,4492.03,40
+vassouras,RJ,4491.8,37
+alegrete,RS,4483.77,35
+sabara,MG,4481.78,42
+japeri,RJ,4458.27,34
+nova odessa,SP,4438.61,38
+taquara,RS,4427.54,21
+ouro branco,MG,4419.23,41
+mariana,MG,4416.58,33
+formiga,MG,4407.94,32
+rio bonito,RJ,4402.01,28
+campo bom,RS,4394.71,36
+seropedica,RJ,4391.15,33
+promissao,SP,4369.85,32
+santo antonio de jesus,BA,4361.85,30
+pacatuba,CE,4317.98,5
+sao joaquim da barra,SP,4302.49,34
+biguacu,SC,4301.2,24
+pereira barreto,SP,4294.72,19
+almirante tamandare,PR,4255.69,35
+santana do livramento,RS,4248.23,20
+passos,MG,4247.28,43
+sao lourenco,MG,4222.89,33
+coronel fabriciano,MG,4201.7,41
+monte alegre do sul,SP,4181.79,6
+xanxere,SC,4175.87,29
+tiete,SP,4142.82,36
+ariquemes,RO,4124.97,13
+barra bonita,SP,4122.43,29
+garanhuns,PE,4107.48,31
+parauapebas,PA,4092.06,27
+trindade,PE,4084.8,4
+santa vitoria,MG,4083.77,17
+barra do garcas,MT,4076.2,25
+andradas,MG,4070.31,12
+aracruz,ES,4064.07,40
+parnaiba,PI,4060.01,23
+ponta pora,MS,4038.51,18
+patos,PB,4036.65,16
+abaetetuba,PA,4028.57,11
+orlandia,SP,4027.32,28
+alvares machado,SP,4022.57,8
+carmo do paranaiba,MG,4008.64,16
+santa fe do sul,SP,3994.67,35
+tangara da serra,MT,3970.6,24
+timbo,SC,3957.67,20
+valenca,RJ,3940.46,27
+cambe,PR,3930.67,27
+itarare,SP,3915.3,28
+santa rita do sapucai,MG,3910.7,35
+campo largo,PR,3894.89,37
+russas,CE,3843.87,9
+imbituba,SC,3838.35,34
+guacui,ES,3797.29,16
+ituverava,SP,3783.73,29
+catole do rocha,PB,3742.59,6
+aparecida,SP,3740.96,25
+ipanema,MG,3727.77,7
+martinopolis,SP,3708.09,8
+piumhii,MG,3707.31,28
+cerqueira cesar,SP,3701.52,18
+guaira,SP,3698.54,36
+presidente venceslau,SP,3691.89,25
+sao pedro,SP,3683.54,12
+sapiranga,RS,3660.6,25
+camaragibe,PE,3642.88,35
+panambi,RS,3640.99,17
+marechal candido rondon,PR,3638.56,31
+castanhal,PA,3628.62,21
+miguel pereira,RJ,3602.2,28
+picos,PI,3598.56,18
+maraba,PA,3597.17,22
+laranjeiras do sul,PR,3595.56,20
+posse,GO,3550.25,16
+iguatu,CE,3538.29,14
+tijucas,SC,3504.74,30
+pires do rio,GO,3500.83,12
+alta floresta,MT,3495.55,12
+frutal,MG,3474.85,26
+januaria,MG,3471.23,22
+casimiro de abreu,RJ,3458.33,20
+ibiuna,SP,3439.52,31
+teixeira de freitas,BA,3439.17,29
+trindade,GO,3425.57,24
+campo formoso,BA,3419.13,10
+ji-parana,RO,3412.04,17
+bom jesus do itabapoana,RJ,3405.91,20
+dois irmaos,RS,3398.76,17
+mineiros,GO,3379.3,25
+viana,ES,3371.82,21
+guararapes,SP,3370.84,19
+itapolis,SP,3363.99,28
+sorriso,MT,3342.75,20
+indaial,SC,3334.74,26
+ipira,BA,3332.68,7
+espera feliz,MG,3315.75,19
+cerquilho,SP,3299.91,30
+sao luiz gonzaga,RS,3298.01,15
+cachoeira paulista,SP,3292.0,25
+ilhabela,SP,3286.28,45
+sao manuel,SP,3278.99,21
+nova xavantina,MT,3274.69,10
+campos do jordao,SP,3273.0,26
+monte carmelo,MG,3269.13,24
+serra negra,SP,3267.53,14
+trindade do sul,RS,3266.99,4
+ibiruba,RS,3252.8,21
+bacabal,MA,3243.71,11
+ituporanga,SC,3225.16,15
+mandaguacu,PR,3222.0,4
+farroupilha,RS,3213.03,27
+valente,BA,3209.58,9
+itapaje,CE,3198.68,6
+itabaiana,SE,3185.67,16
+gramado,RS,3176.24,30
+jales,SP,3173.05,29
+guapore,RS,3153.15,18
+cruz alta,RS,3152.1,32
+cambui,MG,3133.74,22
+crato,CE,3128.56,19
+quata,SP,3119.56,12
+camboriu,SC,3118.18,28
+porto feliz,SP,3108.97,22
+claudio,MG,3092.97,22
+aguas de lindoia,SP,3092.59,22
+capao bonito,SP,3078.97,28
+juquitiba,SP,3073.87,21
+guapimirim,RJ,3067.16,22
+barrinha,SP,3036.93,20
+ibotirama,BA,3032.39,7
+porto uniao,SC,3023.65,14
+garca,SP,3013.41,28
+cicero dantas,BA,3010.05,10
+santo amaro da imperatriz,SC,3007.31,12
+pederneiras,SP,3007.07,21
+medianeira,PR,3007.04,22
+janauba,MG,2990.16,17
+buritizeiro,MG,2987.99,9
+macatuba,SP,2984.64,12
+santa rosa,RS,2972.04,33
+braco do norte,SC,2962.47,20
+paraiba do sul,RJ,2949.57,18
+congonhas,MG,2938.61,30
+ibitinga,SP,2911.26,22
+marataizes,ES,2907.27,16
+pedreira,SP,2893.6,36
+monte azul paulista,SP,2887.91,19
+alegre,ES,2884.07,17
+curitibanos,SC,2878.94,20
+cabo de santo agostinho,PE,2877.95,21
+santa isabel,SP,2875.46,29
+almenara,MG,2872.15,14
+alem paraiba,MG,2870.56,28
+matinhos,PR,2862.15,27
+mairinque,SP,2860.12,25
+piedade,SP,2852.76,23
+castro,PR,2847.19,22
+cunha,SP,2845.12,14
+bom jesus da lapa,BA,2829.63,9
+quissama,RJ,2827.66,13
+castilho,SP,2822.21,10
+encantado,RS,2807.17,11
+novo horizonte,SP,2798.39,17
+maracaju,MS,2791.96,13
+estancia velha,RS,2782.1,20
+paraty,RJ,2780.77,19
+rondon do para,PA,2780.13,9
+parati,RJ,2779.7,13
+aracati,CE,2769.53,22
+paraguacu paulista,SP,2766.8,20
+piracaia,SP,2764.83,22
+venancio aires,RS,2764.62,26
+machado,MG,2761.92,21
+agua boa,MT,2758.87,18
+brumado,BA,2748.75,22
+pau dos ferros,RN,2745.55,9
+pirapora do bom jesus,SP,2744.66,16
+alto do rodrigues,RN,2737.46,8
+imbe,RS,2727.95,13
+itapetinga,BA,2727.12,18
+caico,RN,2723.2,10
+holambra,SP,2719.2,23
+fraiburgo,SC,2715.57,14
+rancharia,SP,2713.19,22
+bariri,SP,2706.45,15
+espinosa,MG,2705.09,6
+tramandai,RS,2703.52,25
+santana do paraiso,MG,2696.82,16
+garopaba,SC,2693.08,23
+taiobeiras,MG,2684.71,13
+jacutinga,MG,2670.82,18
+itapiranga,SC,2667.18,11
+santa cruz do capibaribe,PE,2664.87,13
+ipero,SP,2659.28,18
+escada,PE,2658.43,10
+pacaja,PA,2651.06,6
+venda nova do imigrante,ES,2647.83,15
+natividade,RJ,2645.37,15
+santa juliana,MG,2622.39,9
+santa cruz do rio pardo,SP,2621.48,35
+quixada,CE,2620.67,12
+cordeiro,RJ,2604.86,24
+tapiratiba,SP,2601.22,12
+estancia,SE,2594.65,9
+sao joao nepomuceno,MG,2594.0,14
+oliveira,MG,2579.0,22
+marialva,PR,2573.17,16
+presidente epitacio,SP,2572.52,23
+capelinha,MG,2562.96,19
+senhor do bonfim,BA,2557.28,19
+carlos barbosa,RS,2554.79,19
+monte alto,SP,2549.01,33
+taquarituba,SP,2548.52,16
+vacaria,RS,2540.07,23
+aparecida do taboado,MS,2531.9,7
+monte siao,MG,2530.28,20
+feliz,RS,2523.43,14
+pitangui,MG,2517.23,22
+ouro fino,MG,2511.84,16
+riachao do jacuipe,BA,2502.4,5
+dias d'avila,BA,2493.44,24
+missal,PR,2490.76,7
+araujos,MG,2490.5,5
+caete,MG,2482.97,27
+sao gotardo,MG,2479.38,20
+joao pinheiro,MG,2475.31,16
+paranatinga,MT,2463.29,2
+manhumirim,MG,2461.78,16
+bonfim paulista,SP,2457.37,18
+irati,PR,2455.22,22
+vitoria de santo antao,PE,2455.15,15
+piratininga,SP,2449.18,9
+barra de sao joao,RJ,2440.85,13
+nova venecia,ES,2439.9,19
+diamantina,MG,2424.28,27
+floriano,PI,2424.02,18
+codo,MA,2419.82,8
+canela,RS,2418.63,17
+dois vizinhos,PR,2409.52,28
+crateus,CE,2407.76,9
+coromandel,MG,2403.93,25
+quarai,RS,2402.99,4
+nanuque,MG,2395.97,25
+veranopolis,RS,2394.04,18
+tiangua,CE,2377.09,9
+abreu e lima,PE,2376.95,11
+cravinhos,SP,2363.95,24
+sao gabriel,RS,2362.85,23
+americo brasiliense,SP,2360.1,17
+iguaba grande,RJ,2348.6,19
+goiatuba,GO,2347.44,10
+ipameri,GO,2320.55,13
+socorro,SP,2319.45,19
+icara,SC,2317.34,21
+salgueiro,PE,2315.95,17
+santiago,RS,2304.7,26
+querencia,MT,2302.62,10
+ilha solteira,SP,2299.44,24
+penha,SC,2298.09,17
+tres pontas,MG,2293.71,20
+nossa senhora do socorro,SE,2282.92,14
+rio grande da serra,SP,2264.3,26
+brumadinho,MG,2258.23,26
+cruzeiro do sul,RS,2247.89,4
+ouricuri,PE,2246.86,8
+ararangua,SC,2246.55,18
+comodoro,MT,2245.02,7
+itaporanga,SP,2237.28,12
+paty do alferes,RJ,2234.66,13
+cornelio procopio,PR,2234.17,24
+aguas lindas de goias,GO,2219.91,24
+novo progresso,PA,2219.01,5
+pirai,RJ,2218.16,15
+eusebio,CE,2217.51,13
+estrela,RS,2217.15,16
+piuma,ES,2216.18,17
+inhumas,GO,2210.83,16
+laranjal paulista,SP,2209.33,17
+vilhena,RO,2207.95,18
+bambui,MG,2206.67,18
+mucuri,BA,2203.67,7
+laguna,SC,2202.73,14
+pianco,PB,2200.0,1
+nova esperanca do piria,PA,2199.0,1
+nova andradina,MS,2194.87,11
+carpina,PE,2194.76,10
+bom jardim,RJ,2189.45,14
+paragominas,PA,2182.65,19
+camanducaia,MG,2180.67,9
+varzea da palma,MG,2171.77,11
+matias barbosa,MG,2169.86,13
+araripina,PE,2169.58,12
+teotonio vilela,AL,2168.68,8
+marau,RS,2167.34,22
+pinheiral,RJ,2165.19,14
+guarani,MG,2164.42,7
+colider,MT,2161.73,8
+espirito santo do pinhal,SP,2160.02,18
+sao sebastiao,AL,2159.98,1
+bofete,SP,2157.59,6
+sao raimundo nonato,PI,2145.39,7
+presidente dutra,MA,2140.98,12
+sao lourenco do sul,RS,2135.38,14
+taquaritinga do norte,PE,2129.9,7
+novo gama,GO,2124.94,16
+sao borja,RS,2124.74,18
+santa rita do passa quatro,SP,2123.97,18
+sao joao da barra,RJ,2115.54,15
+tailandia,PA,2113.18,4
+cristalina,GO,2112.65,8
+aguai,SP,2111.48,10
+rio negro,PR,2105.87,15
+paraisopolis,MG,2101.66,15
+sao sebastiao do cai,RS,2087.84,13
+viradouro,SP,2081.54,18
+antonina,PR,2077.57,10
+conchal,SP,2075.24,19
+nova era,MG,2074.71,15
+sarandi,PR,2063.93,18
+lagoa grande,MG,2060.89,4
+santos dumont,MG,2056.3,22
+serra talhada,PE,2053.18,10
+goianesia,GO,2044.47,18
+cambuci,RJ,2042.79,8
+lapa,PR,2039.2,14
+serrinha,BA,2039.14,15
+ipua,SP,2031.49,4
+carazinho,RS,2030.93,23
+sao fidelis,RJ,2029.25,23
+junqueiropolis,SP,2029.24,15
+ipora,GO,2025.99,15
+nucleo residencial pilar,BA,2024.35,8
+cocal do sul,SC,2015.29,4
+palmeira,PR,2013.32,12
+cruz das almas,BA,2007.24,18
+porto ferreira,SP,2000.7,27
+conselheiro pena,MG,2000.56,15
+cedro de sao joao,SE,1999.99,3
+engenheiro navarro,MG,1997.0,1
+ico,CE,1990.88,8
+agrestina,PE,1989.0,1
+sacramento,MG,1986.57,13
+miguelopolis,SP,1984.27,14
+anchieta,ES,1983.8,14
+cantagalo,RJ,1981.48,17
+gravata,PE,1970.99,11
+tres de maio,RS,1969.05,12
+cesario lange,SP,1966.5,13
+sape,PB,1959.99,2
+santo antonio do monte,MG,1959.11,15
+barao de cocais,MG,1958.4,18
+cachoeiras de macacu,RJ,1958.25,21
+lagarto,SE,1955.43,11
+igarassu,PE,1936.82,13
+bombinhas,SC,1935.41,15
+goioere,PR,1935.28,11
+sao mateus do sul,PR,1933.95,15
+guanhaes,MG,1931.45,18
+campos novos,SC,1929.69,14
+palmas,PR,1921.38,19
+triunfo,RS,1918.53,11
+mirassol d'oeste,MT,1912.02,14
+navirai,MS,1910.88,8
+pompeia,SP,1907.08,17
+ceres,GO,1905.47,7
+igarape,MG,1904.26,10
+itanhandu,MG,1899.98,14
+maragogi,AL,1897.05,5
+pinhalao,PR,1894.94,7
+piracanjuba,GO,1893.26,10
+caetite,BA,1892.3,10
+santa maria de jetiba,ES,1888.97,15
+santo anastacio,SP,1884.6,17
+parnamirim,PE,1884.22,4
+auriflama,SP,1871.66,10
+paranaita,MT,1858.75,4
+eldorado do sul,RS,1853.48,15
+morro agudo,SP,1850.95,10
+jandaia do sul,PR,1839.25,8
+campo belo,MG,1836.34,21
+porangatu,GO,1828.15,13
+guaratuba,PR,1821.88,9
+cajati,SP,1821.32,16
+santa rosa de viterbo,SP,1818.22,14
+cajazeiras,PB,1818.16,11
+santo amaro,BA,1805.93,10
+timon,MA,1802.69,15
+cacoal,RO,1801.47,12
+paraiso do tocantins,TO,1799.04,10
+mariental,PR,1799.0,1
+eloi mendes,MG,1795.39,10
+mangueirinha,PR,1794.67,9
+caxias,MA,1790.55,16
+nova granada,SP,1790.33,19
+osvaldo cruz,SP,1786.46,16
+esmeraldas,MG,1780.97,14
+iturama,MG,1772.55,15
+fartura,SP,1771.41,10
+caxambu,MG,1770.63,17
+ampere,PR,1769.67,9
+pariquera-acu,SP,1765.1,15
+quatro barras,PR,1763.66,18
+palmital,SP,1760.16,18
+itatinga,SP,1760.15,4
+itaguacu,ES,1758.03,7
+itai,SP,1757.58,10
+buritis,MG,1756.22,14
+cafelandia,PR,1755.11,12
+santa vitoria do palmar,RS,1750.75,12
+parobe,RS,1750.48,12
+uruacu,GO,1750.02,17
+sanharo,PE,1748.0,3
+passa quatro,MG,1746.56,10
+niquelandia,GO,1745.59,14
+santa fe de goias,GO,1737.69,4
+beberibe,CE,1736.7,3
+abaete,MG,1732.81,12
+mafra,SC,1732.23,26
+irece,BA,1729.52,13
+bandeirantes,PR,1728.2,13
+lagoa da prata,MG,1725.39,11
+charqueadas,RS,1721.41,17
+itaocara,RJ,1720.65,16
+esperanca,PB,1720.38,6
+xaxim,SC,1718.58,10
+camaqua,RS,1716.75,13
+santa maria da vitoria,BA,1710.55,13
+ourilandia do norte,PA,1710.08,5
+itamarandiba,MG,1706.99,8
+loanda,PR,1704.36,13
+belo jardim,PE,1698.13,12
+camocim,CE,1686.29,8
+santana do jacare,MG,1685.79,4
+barra velha,SC,1684.01,15
+morro da fumaca,SC,1676.0,7
+sao joao batista,SC,1675.22,10
+conceicao de macabu,RJ,1668.47,13
+leopoldina,MG,1667.77,17
+jaguariaiva,PR,1665.58,18
+sao joaquim de bicas,MG,1663.28,8
+esplanada,BA,1660.9,5
+gameleira,PE,1657.98,4
+itajobi,SP,1653.95,10
+ibate,SP,1652.59,13
+mantena,MG,1652.22,11
+sao francisco do sul,SC,1648.08,17
+miracema,RJ,1643.24,19
+carmo do rio claro,MG,1642.42,9
+carmo do cajuru,MG,1638.44,10
+catende,PE,1630.18,7
+carmopolis de minas,MG,1629.78,5
+caconde,SP,1628.19,10
+bom conselho,PE,1624.93,7
+taquari,RS,1619.28,11
+bocaiuva,MG,1618.27,13
+lagoa vermelha,RS,1616.25,14
+paranaiba,MS,1616.23,15
+santo amaro de campos,RJ,1611.78,6
+paraibuna,SP,1610.99,10
+santa adelia,SP,1609.65,15
+bom jesus dos perdoes,SP,1608.73,17
+guariba,SP,1608.43,14
+ipojuca,PE,1605.2,17
+piraquara,PR,1604.51,14
+jacunda,PA,1601.71,6
+castelo,ES,1600.8,18
+jardinopolis,SP,1600.05,13
+loreto,MA,1599.99,1
+coxim,MS,1598.75,11
+crissiumal,RS,1589.0,2
+vitorino freire,MA,1588.0,3
+montanha,ES,1586.54,10
+cangucu,RS,1584.98,14
+pirajui,SP,1583.52,12
+nova esperanca,PR,1579.78,8
+pomerode,SC,1579.36,9
+porto nacional,TO,1577.68,8
+pombal,PB,1577.5,6
+candido mota,SP,1573.29,16
+sao joao do piaui,PI,1571.79,6
+chapadao do sul,MS,1569.79,14
+afonso claudio,ES,1568.77,11
+canaa dos carajas,PA,1565.93,9
+minacu,GO,1561.62,11
+palmeira das missoes,RS,1559.51,16
+sidrolandia,MS,1557.76,11
+visconde do rio branco,MG,1557.34,18
+pontes e lacerda,MT,1556.77,9
+reginopolis,SP,1552.99,3
+vazante,MG,1549.63,6
+ipueiras,CE,1547.29,3
+nova olinda do maranhao,MA,1546.4,4
+ronda alta,RS,1544.33,6
+campos sales,CE,1543.9,4
+conceicao das alagoas,MG,1542.4,3
+santa rita,PB,1541.65,7
+boa esperanca,MG,1539.82,11
+costa marques,RO,1534.9,2
+toropi,RS,1529.9,3
+brejo santo,CE,1529.86,10
+itatiaia,RJ,1526.46,18
+periquito,MG,1526.0,2
+cassilandia,MS,1524.5,5
+petrolandia,PE,1520.49,9
+ibatiba,ES,1518.78,9
+embu,SP,1517.88,11
+mostardas,RS,1517.83,11
+tambau,SP,1513.43,19
+faxinal dos guedes,SC,1512.73,11
+mata verde,MG,1512.53,6
+aracoiaba da serra,SP,1511.57,11
+camamu,BA,1506.82,9
+lambari,MG,1506.47,8
+pacaembu,SP,1505.29,6
+nova russas,CE,1504.94,7
+entre rios de minas,MG,1503.86,7
+imbuia,SC,1501.88,4
+balneario picarras,SC,1501.81,9
+santa helena de goias,GO,1499.73,9
+sao francisco de itabapoana,RJ,1497.76,15
+alvorada,TO,1494.47,6
+teutonia,RS,1493.6,14
+carmo,RJ,1493.19,13
+nova olinda,CE,1490.8,3
+corrente,PI,1489.9,4
+quatro bocas,PA,1486.99,5
+catu,BA,1486.97,10
+jose bonifacio,SP,1486.34,12
+porto real,RJ,1484.6,7
+pojuca,BA,1481.09,13
+cruz,CE,1480.58,7
+morrinhos,GO,1479.79,14
+siqueira campos,PR,1478.08,9
+quirinopolis,GO,1475.95,14
+piranguinho,MG,1475.65,9
+itamaraju,BA,1474.13,12
+garuva,SC,1467.38,5
+aperibe,RJ,1464.94,12
+chapada,RS,1463.19,4
+currais novos,RN,1462.79,8
+andira,PR,1462.18,11
+dom pedrito,RS,1461.93,10
+correia pinto,SC,1454.23,11
+paraguacu,MG,1452.85,12
+jarinu,SP,1450.38,19
+buenopolis,MG,1450.38,5
+ibitita,BA,1450.0,1
+lauro muller,SC,1449.57,8
+sao jose de ribamar,MA,1444.82,14
+flores da cunha,RS,1439.45,12
+limoeiro do norte,CE,1436.57,12
+fatima do sul,MS,1436.29,4
+marilandia,ES,1436.07,8
+altinopolis,SP,1428.8,4
+arroio do meio,RS,1425.21,10
+redencao,PA,1423.25,12
+queimadas,PB,1422.9,5
+itauba,MT,1420.98,5
+buerarema,BA,1420.8,4
+torres,RS,1416.23,17
+nova ponte,MG,1409.49,9
+baependi,MG,1409.04,8
+orleans,SC,1408.59,8
+sao gabriel da palha,ES,1406.8,13
+tanabi,SP,1404.39,11
+ipaba,MG,1403.5,8
+boa esperanca,RJ,1399.99,1
+bastos,SP,1399.6,17
+baixo guandu,ES,1399.1,8
+campinas do sul,RS,1398.89,6
+formosa do rio preto,BA,1398.13,3
+mutum,MG,1397.94,8
+bocaina,SP,1391.9,6
+bonfinopolis de minas,MG,1387.2,2
+sao felix do xingu,PA,1382.7,8
+mata de sao joao,BA,1382.55,12
+biritiba-mirim,SP,1381.72,10
+barreiros,PE,1381.16,6
+joao camara,RN,1379.8,2
+bom retiro do sul,RS,1379.0,2
+guaramirim,SC,1377.08,13
+santana do acarau,CE,1376.89,4
+senador canedo,GO,1375.57,16
+jequitinhonha,MG,1372.37,11
+divinolandia,SP,1370.68,7
+vila valerio,ES,1369.4,8
+alto paraiso de goias,GO,1367.34,9
+ibia,MG,1367.29,8
+itabera,SP,1366.14,7
+acarau,CE,1364.96,8
+itapecerica,MG,1363.28,13
+aracuai,MG,1362.98,9
+corinto,MG,1362.86,11
+pitangueiras,SP,1362.62,16
+iguape,SP,1359.57,14
+jacarezinho,PR,1356.86,17
+malacacheta,MG,1355.65,7
+campestre da serra,RS,1348.99,2
+afogados da ingazeira,PE,1345.98,8
+altos,PI,1345.39,5
+upanema,RN,1343.6,3
+aguas formosas,MG,1341.7,5
+itapipoca,CE,1341.08,11
+pirpirituba,PB,1340.0,1
+divino,MG,1338.49,14
+cordeiropolis,SP,1338.05,16
+bezerros,PE,1337.29,11
+girua,RS,1335.28,10
+sao joao dos patos,MA,1333.08,7
+tupaciguara,MG,1331.21,13
+sao bento do una,PE,1328.39,4
+casca,RS,1326.27,7
+tabapua,SP,1322.96,12
+sao miguel do araguaia,GO,1321.15,5
+apiuna,SC,1320.6,7
+pirapozinho,SP,1319.37,14
+conceicao do mato dentro,MG,1317.91,12
+guadalupe,PI,1313.7,4
+itaiopolis,SC,1313.59,8
+sao miguel arcanjo,SP,1311.09,13
+caarapo,MS,1310.49,4
+fronteiras,PI,1308.8,3
+dores de campos,MG,1308.14,8
+itapui,SP,1307.09,7
+ibipora,PR,1303.38,12
+barbalha,CE,1302.98,6
+pinhalzinho,SP,1300.42,12
+barao ataliba nogueira,SP,1300.0,1
+barra longa,MG,1300.0,1
+tapiramuta,BA,1298.99,2
+sao simao,SP,1297.89,10
+neropolis,GO,1297.22,7
+simonesia,MG,1295.88,8
+morada nova,CE,1295.28,9
+astolfo dutra,MG,1294.52,11
+barroso,MG,1289.96,11
+alcobaca,BA,1289.78,4
+sao miguel do iguacu,PR,1288.2,10
+italva,RJ,1285.99,14
+sao luis de montes belos,GO,1284.37,8
+jaguare,ES,1283.85,14
+xinguara,PA,1282.22,9
+mirandopolis,SP,1274.99,13
+tres passos,RS,1270.21,11
+agudos,SP,1265.3,16
+realeza,PR,1264.26,6
+pacajus,CE,1262.59,6
+casa branca,SP,1261.58,13
+gravatal,SC,1260.27,6
+teodoro sampaio,SP,1259.77,12
+itariri,SP,1259.32,6
+balsamo,SP,1257.23,6
+duartina,SP,1252.67,10
+sao goncalo do sapucai,MG,1252.4,9
+aluminio,SP,1252.15,13
+iracemapolis,SP,1251.88,18
+areado,MG,1246.69,6
+campinorte,GO,1244.69,7
+pimenta bueno,RO,1243.79,7
+vera cruz,BA,1243.52,7
+sao miguel do guama,PA,1240.79,5
+mendes,RJ,1240.75,12
+botelhos,MG,1240.01,8
+penedo,AL,1239.87,8
+sao lourenco da mata,PE,1239.86,12
+guarabira,PB,1239.68,10
+bonito,PE,1235.79,5
+ouroeste,SP,1235.19,11
+ivoti,RS,1235.11,13
+marituba,PA,1235.09,15
+parelhas,RN,1233.89,4
+dois corregos,SP,1233.69,11
+descalvado,SP,1231.74,13
+saloa,PE,1231.0,3
+nova prata,RS,1230.94,16
+turmalina,MG,1229.69,9
+venturosa,PE,1228.9,2
+ipaussu,SP,1228.72,7
+sao joao evangelista,MG,1227.66,7
+santa ines,MA,1226.88,12
+sombrio,SC,1225.82,11
+coruripe,AL,1222.3,3
+capinzal,SC,1220.55,10
+primeiro de maio,PR,1216.67,7
+candeias,BA,1214.17,13
+cabedelo,PB,1213.95,7
+conchas,SP,1213.02,10
+espumoso,RS,1210.71,7
+silvania,GO,1208.79,7
+palmares,PE,1206.82,8
+santana,AP,1202.64,9
+coaraci,BA,1201.88,4
+assis chateaubriand,PR,1200.31,12
+alto paraiso,RO,1200.0,1
+pirangi,SP,1199.99,8
+bom jesus do araguaia,MT,1199.9,1
+passagem,PB,1199.0,1
+riacho de santana,BA,1194.7,4
+santa gertrudes,SP,1194.21,11
+sao francisco,MG,1193.62,12
+rio pomba,MG,1192.86,6
+sao jose do vale do rio preto,RJ,1192.21,12
+santana do araguaia,PA,1190.8,3
+coari,AM,1190.65,1
+guararema,SP,1189.56,11
+domingos martins,ES,1188.3,9
+ubajara,CE,1178.9,3
+parapua,SP,1178.4,8
+igrejinha,RS,1173.03,17
+schroeder,SC,1168.69,9
+tapejara,RS,1165.13,9
+santo augusto,RS,1165.08,9
+cedral,MA,1164.9,3
+saltinho,SP,1164.79,5
+perdizes,MG,1163.31,8
+brejo do cruz,PB,1160.0,1
+guarai,TO,1156.6,4
+jaguaruana,CE,1155.15,4
+itaqui,RS,1154.38,9
+campina grande do sul,PR,1152.47,10
+areal,RJ,1152.18,7
+sao lourenco da serra,SP,1151.95,12
+tucuma,PA,1150.25,4
+urupes,SP,1150.14,10
+salesopolis,SP,1146.52,10
+arapora,MG,1144.38,5
+conceicao do araguaia,PA,1143.89,7
+forquilhinha,SC,1143.85,13
+carandai,MG,1143.5,11
+quixere,CE,1143.3,3
+uruana,GO,1142.29,3
+santo antonio da platina,PR,1140.61,12
+terra de areia,RS,1137.29,5
+celso ramos,SC,1136.79,2
+catu de abrantes,BA,1135.99,2
+camacan,BA,1134.67,6
+jijoca de jericoacoara,CE,1130.9,4
+salto de pirapora,SP,1130.59,13
+santo antonio do pinhal,SP,1128.9,2
+colinas,MA,1128.87,3
+papucaia,RJ,1126.77,10
+casa nova,BA,1126.19,6
+delmiro gouveia,AL,1125.8,4
+aripuana,MT,1124.78,8
+charqueada,SP,1122.67,10
+rio negrinho,SC,1121.19,13
+sao joaquim,SC,1118.98,9
+inhambupe,BA,1117.78,7
+santa teresa,ES,1117.36,10
+goitacazes,RJ,1116.34,11
+raul soares,MG,1115.51,12
+maracai,SP,1114.58,8
+butia,RS,1112.69,6
+monte belo,MG,1109.78,5
+chapadao do ceu,GO,1108.57,8
+nova roma do sul,RS,1106.99,1
+cocal,PI,1106.77,8
+herval d'oeste,SC,1106.74,9
+redencao,CE,1104.68,4
+canarana,MT,1103.73,10
+entre rios,BA,1103.4,6
+caicara do norte,RN,1099.0,1
+santo antonio do aracangua,SP,1099.0,1
+guarei,SP,1098.29,5
+boa esperanca,ES,1097.58,7
+pontal,SP,1097.38,12
+palmeira dos indios,AL,1094.41,8
+guara,SP,1093.7,8
+reriutaba,CE,1093.32,3
+prado,BA,1090.79,5
+engenheiro coelho,SP,1089.47,13
+itaberaba,BA,1089.16,10
+goianapolis,GO,1086.98,4
+sao jose da lapa,MG,1086.58,8
+alto araguaia,MT,1085.73,5
+pontal do parana,PR,1084.26,8
+goias,GO,1084.21,8
+barcarena,PA,1084.17,6
+braganca,PA,1083.96,9
+cristina,MG,1079.32,8
+ervalia,MG,1076.83,7
+brotas,SP,1073.08,12
+toritama,PE,1072.79,5
+fundao,ES,1072.68,5
+capao do leao,RS,1072.25,4
+acreuna,GO,1070.43,7
+pauliceia,SP,1070.27,3
+confresa,MT,1065.65,7
+sumidouro,RJ,1060.68,10
+caraubas,RN,1059.29,3
+patrocinio paulista,SP,1059.2,2
+ibaiti,PR,1057.36,11
+pompeu,MG,1055.18,11
+frederico westphalen,RS,1053.45,14
+catas altas,MG,1052.85,5
+santana do mundau,AL,1052.8,3
+vera cruz,SP,1052.17,10
+itapejara d'oeste,PR,1049.9,6
+nova prata do iguacu,PR,1049.78,6
+godoy moreira,PR,1049.0,1
+santa maria madalena,RJ,1046.09,7
+prata,MG,1044.58,10
+rolante,RS,1044.15,10
+costa rica,MS,1043.66,12
+valenca do piaui,PI,1043.0,4
+rio das pedras,SP,1042.64,11
+sousa,PB,1042.59,7
+capinopolis,MG,1042.18,11
+pedregulho,SP,1039.4,2
+alhandra,PB,1037.0,2
+cascavel,CE,1035.66,5
+arroio dos ratos,RS,1034.18,9
+rubiataba,GO,1034.09,7
+aguas da prata,SP,1028.28,10
+ibirama,SC,1026.5,13
+jaguarao,RS,1025.29,8
+sao sebastiao da grama,SP,1024.79,4
+pinheiros,ES,1024.32,8
+buritama,SP,1024.24,9
+colorado,PR,1022.78,6
+brodowski,SP,1020.54,10
+cajobi,SP,1018.43,8
+lagoa grande,PE,1018.36,4
+japuiba,RJ,1017.58,5
+oriente,SP,1017.27,3
+garibaldi,RS,1014.8,9
+mar de espanha,MG,1014.72,9
+picarra,PA,1014.6,1
+xangri-la,RS,1013.58,8
+itaberai,GO,1012.08,6
+raposos,MG,1009.52,11
+bom principio,RS,1003.11,6
+serranopolis,GO,1002.88,3
+pedreiras,MA,1002.69,3
+pilar do sul,SP,1002.36,12
+macau,RN,998.88,5
+conceicao do coite,BA,997.89,9
+taruma,SP,997.72,9
+primavera,SP,996.78,9
+campo maior,PI,993.66,7
+ortigueira,PR,993.29,8
+araquari,SC,993.25,11
+bonito,MS,991.47,8
+lajedo,PE,988.09,7
+sarzedo,MG,987.93,18
+sao jose da barra,MG,987.14,6
+tabira,PE,986.88,5
+extrema,RO,985.8,4
+cacu,GO,982.68,8
+seabra,BA,982.5,6
+tarabai,SP,982.35,5
+luis antonio,SP,980.08,7
+inhapi,AL,979.9,2
+santo estevao,BA,979.81,5
+mangaratiba,RJ,974.84,12
+cosmorama,SP,973.98,6
+eugenopolis,MG,973.87,5
+rio brilhante,MS,972.28,11
+sao jose do calcado,ES,970.18,6
+lagoa dos gatos,PE,969.99,3
+mamanguape,PB,969.75,6
+arapoti,PR,966.97,9
+fervedouro,MG,965.76,8
+sapezal,MT,964.82,8
+estiva gerbi,SP,964.26,7
+uruara,PA,962.4,6
+lucelia,SP,961.35,12
+piratuba,SC,958.98,6
+cruzeiro do sul,AC,957.79,3
+nova santa rita,RS,954.78,5
+munhoz de melo,PR,953.89,4
+hidrolandia,CE,953.77,7
+aimores,MG,951.37,10
+abadiania,GO,949.99,1
+fronteira,MG,949.66,6
+cristalandia,TO,948.69,3
+monte aprazivel,SP,948.11,10
+dormentes,PE,946.8,2
+benedito novo,SC,945.74,6
+cardoso,SP,944.81,6
+condado,PE,944.8,4
+paicandu,PR,943.16,10
+palma sola,SC,938.8,4
+buri,SP,938.32,10
+acailandia,MA,937.79,7
+gouveia,MG,936.96,4
+porciuncula,RJ,936.88,8
+sao francisco,SE,934.9,3
+campos de julio,MT,934.8,6
+poco fundo,MG,933.99,8
+canelinha,SC,933.94,4
+rosario do sul,RS,933.25,14
+taua,CE,933.13,10
+concordia do para,PA,929.78,3
+figueira,PR,928.78,4
+bom jesus,GO,928.27,8
+itaju,SP,927.8,3
+chavantes,SP,926.52,12
+bom jesus,PI,925.1,4
+arceburgo,MG,924.14,7
+jeremoabo,BA,922.08,6
+cabrobo,PE,921.79,6
+dourado,SP,920.43,8
+pinhao,PR,920.28,8
+holambra ii,SP,919.68,5
+campo alegre,AL,919.1,2
+arroio do sal,RS,918.97,7
+varre-sai,RJ,918.9,4
+sertanopolis,PR,918.8,4
+serrana,SP,917.9,13
+morrinhos,CE,917.8,4
+otacilio costa,SC,913.29,5
+mairi,BA,913.0,2
+jacaraci,BA,911.79,4
+sao lourenco do oeste,SC,911.37,10
+julio mesquita,SP,909.99,2
+guapiacu,SP,906.98,6
+encruzilhada do sul,RS,903.99,8
+alfredo chaves,ES,902.71,7
+itaja,GO,902.0,3
+pradopolis,SP,901.0,10
+candido godoi,RS,900.0,1
+bela cruz,CE,899.9,4
+grao mogol,MG,899.8,3
+balneario pinhal,RS,898.57,7
+borda da mata,MG,897.53,6
+regente feijo,SP,897.01,10
+areiopolis,SP,896.49,3
+crixas,GO,893.68,8
+urussanga,SC,893.68,10
+juru,PB,890.0,1
+barra do corda,MA,889.89,7
+irapuru,SP,889.48,6
+candeias,MG,888.29,10
+lutecia,SP,887.0,1
+itaguari,GO,887.0,1
+jordania,MG,886.25,5
+icem,SP,885.97,9
+urania,SP,885.72,4
+treze tilias,SC,885.66,11
+itamonte,MG,883.15,10
+pecanha,MG,882.7,5
+sao luis do paraitinga,SP,882.49,3
+ecoporanga,ES,881.92,8
+virginopolis,MG,881.64,8
+taiuva,SP,881.54,5
+mirai,MG,880.81,9
+paraopeba,MG,880.67,9
+paudalho,PE,878.9,2
+santa fe,PR,877.8,5
+capivari de baixo,SC,876.89,5
+sao domingos do norte,ES,874.4,7
+coroata,MA,873.48,9
+macaubas,BA,873.37,9
+palotina,PR,872.76,10
+sao joao,PR,872.09,11
+california da barra,RJ,871.97,6
+matupa,MT,871.17,7
+nova trento,SC,870.6,6
+monte santo de minas,MG,869.28,9
+itaobim,MG,866.91,6
+bom jardim de minas,MG,866.87,8
+santo antonio do descoberto,GO,866.26,5
+conceicao da aparecida,MG,866.08,5
+vargem grande do sul,SP,864.6,13
+conservatoria,RJ,864.09,4
+miracatu,SP,863.99,5
+cambara,PR,863.17,10
+paulistana,PI,862.67,3
+goianesia do para,PA,861.99,3
+assai,PR,861.57,5
+sao joao do sul,SC,861.0,2
+barra da estiva,BA,860.57,7
+cacapava do sul,RS,859.99,5
+quixeramobim,CE,859.79,6
+sao goncalo do amarante,RN,859.78,7
+nao-me-toque,RS,859.68,7
+coronel vivida,PR,856.87,11
+bom sucesso,MG,856.69,4
+porto belo,SC,856.32,9
+santa cecilia,SC,856.22,6
+brazopolis,MG,856.13,6
+goianira,GO,853.81,8
+itapoa,SC,849.67,9
+santa quiteria,CE,849.67,5
+rodeio,SC,849.66,7
+faxinal,PR,848.05,9
+iaciara,GO,846.99,4
+sao miguel,RN,846.86,4
+colonia jordaozinho,PR,843.4,2
+inaciolandia,GO,842.99,3
+borborema,SP,842.95,9
+quedas do iguacu,PR,842.25,8
+itacare,BA,841.39,8
+tres marias,MG,840.44,13
+lago da pedra,MA,840.37,5
+barra do bugres,MT,840.25,4
+santana do cariri,CE,839.8,3
+prudentopolis,PR,839.09,7
+serro,MG,837.89,2
+boa esperanca do sul,SP,836.9,11
+alpinopolis,MG,836.68,7
+queimadas,BA,834.45,4
+capela do alto,SP,833.99,3
+arrozal,RJ,833.89,3
+pedro de toledo,SP,833.11,9
+cachoeira do campo,MG,828.99,2
+formoso,MG,828.99,2
+itapuranga,GO,828.78,7
+simao dias,SE,828.48,7
+lavras da mangabeira,CE,827.88,2
+dois irmaos do buriti,MS,826.9,3
+conceicao do rio verde,MG,825.89,5
+campos borges,RS,825.89,3
+cruzeiro do oeste,PR,825.39,7
+joanopolis,SP,824.6,6
+colonia castrolanda,PR,824.03,3
+potirendaba,SP,823.32,9
+dianopolis,TO,822.95,7
+nuporanga,SP,821.8,3
+sao jose de mipibu,RN,821.69,3
+guaira,PR,820.48,7
+bom jesus,SC,819.89,2
+conde,BA,819.0,2
+angatuba,SP,818.75,8
+chui,RS,818.7,5
+mambai,GO,816.99,2
+pinhalzinho,SC,816.86,9
+sao marcos,RS,816.42,9
+nazare paulista,SP,815.64,7
+rio manso,MG,815.56,5
+serafina correa,RS,813.66,9
+sao miguel dos campos,AL,813.36,2
+jacare,SP,810.04,8
+murutinga do sul,SP,809.0,2
+ibira,SP,808.73,7
+bayeux,PB,808.05,7
+alvinopolis,MG,807.06,11
+mozarlandia,GO,806.4,7
+novo cruzeiro,MG,805.78,9
+guaranesia,MG,805.58,9
+candiota,RS,802.7,4
+sao goncalo do rio abaixo,MG,802.2,6
+santa rita do araguaia,GO,800.25,7
+canavieiras,BA,799.8,6
+barra do choca,BA,799.0,3
+sandolandia,TO,799.0,1
+cidade gaucha,PR,798.39,5
+tapes,RS,797.35,6
+arataca,BA,795.0,1
+alfredo wagner,SC,794.8,2
+igarapava,SP,791.09,7
+regeneracao,PI,790.97,6
+itarana,ES,789.37,3
+sao benedito,CE,789.19,4
+campos belos,GO,788.07,7
+julio de castilhos,RS,787.54,10
+echapora,SP,787.47,2
+ipiau,BA,787.21,8
+mallet,PR,786.65,6
+jacupiranga,SP,785.8,5
+laurentino,SC,782.41,5
+campo verde,MT,781.38,10
+mambore,PR,780.24,8
+datas,MG,780.0,1
+santana do serido,RN,779.7,2
+arraial d'ajuda,BA,779.42,8
+icatu,MA,778.0,1
+alto parnaiba,MA,777.79,5
+tarumirim,MG,775.49,4
+trajano de moraes,RJ,775.18,8
+tres coroas,RS,774.37,6
+portao,RS,772.15,10
+piquete,SP,771.09,9
+paraiso,SP,770.78,5
+aguas belas,PE,769.87,6
+jaboticatubas,MG,767.3,1
+guaicara,SP,767.23,8
+cansancao,BA,766.96,7
+salto do lontra,PR,766.49,4
+paco do lumiar,MA,766.38,7
+lima duarte,MG,764.88,6
+igarata,SP,764.09,5
+sao pedro dos ferros,MG,763.79,4
+santa branca,SP,763.76,9
+moreno,PE,763.5,5
+morretes,PR,762.98,4
+amarante,PI,760.0,1
+aracariguama,SP,759.75,10
+jaguapita,PR,759.05,1
+guapo,GO,757.89,6
+avanhandava,SP,757.68,7
+sao joao do itaperiu,SC,755.99,1
+carbonita,MG,755.87,4
+carlopolis,PR,755.4,6
+chapada dos guimaraes,MT,754.8,4
+planaltina,GO,754.24,10
+trancoso,BA,754.2,6
+arinos,MG,752.07,8
+amambai,MS,751.98,6
+alto taquari,MT,750.88,3
+matozinhos,MG,750.65,12
+ilhota,SC,749.14,4
+varjota,CE,748.97,4
+tucano,BA,748.69,8
+sao felipe,BA,747.9,2
+lagoa do carro,PE,746.77,2
+getulio vargas,RS,746.61,8
+santa rita de caldas,MG,746.28,6
+mimoso do sul,ES,745.37,10
+dores do indaia,MG,744.57,7
+pedralva,MG,743.97,3
+sao joao d'alianca,GO,743.53,3
+nova londrina,PR,743.53,9
+santa isabel do para,PA,741.77,6
+imbituva,PR,740.67,8
+barra de sao francisco,ES,740.66,10
+santa isabel do rio preto,RJ,739.9,1
+resplendor,MG,739.06,10
+virgem da lapa,MG,737.9,3
+porecatu,PR,735.42,9
+sao goncalo do para,MG,734.9,3
+itajuipe,BA,734.49,3
+corbelia,PR,733.8,3
+vila muriqui,RJ,731.76,7
+tocantinopolis,TO,731.65,7
+seara,SC,730.85,6
+solonopole,CE,729.89,2
+floresta,PR,729.79,5
+cafelandia,SP,729.2,8
+barros cassal,RS,729.0,3
+cananeia,SP,727.66,8
+bicas,MG,727.65,7
+ribeirao bonito,SP,727.29,7
+joao neiva,ES,724.93,8
+sabino,SP,723.0,3
+cabreuva,SP,720.6,6
+colniza,MT,718.97,3
+piranhas,GO,718.79,4
+boninal,BA,717.7,2
+bananal,SP,716.65,6
+dumont,SP,714.7,4
+cerro largo,RS,712.87,7
+alcinopolis,MS,711.16,6
+vargem bonita,SC,710.59,5
+bilac,SP,710.52,8
+sao mateus do maranhao,MA,710.2,3
+juquia,SP,710.08,9
+santa cruz de goias,GO,709.0,2
+arari,MA,708.8,2
+maioba,MA,708.79,3
+urandi,BA,707.94,2
+taguai,SP,707.34,10
+sao bernardo,MA,706.79,3
+espigao do oeste,RO,706.68,6
+santa cruz de monte castelo,PR,706.22,4
+cidade ocidental,GO,705.38,8
+ubaira,BA,704.79,6
+peabiru,PR,704.74,5
+estacao,RS,704.1,5
+maracas,BA,703.64,5
+lagoa da confusao,TO,699.99,5
+bom jesus do norte,ES,699.89,4
+pejucara,RS,699.65,4
+matoes do norte,MA,698.9,2
+marmeleiro,PR,698.44,7
+carapebus,RJ,696.97,5
+guaiuba,CE,695.0,2
+conceicao do para,MG,694.99,3
+pedro osorio,RS,692.45,3
+morro de sao paulo,BA,691.96,1
+andorinha,BA,691.1,5
+catanduvas,SC,690.79,6
+divisa nova,MG,689.9,1
+cantanhede,MA,689.0,1
+guabiruba,SC,688.78,5
+ze doca,MA,688.6,5
+rio pardo,RS,687.88,5
+santa albertina,SP,686.39,7
+terra boa,PR,683.79,4
+jaiba,MG,683.49,6
+araguatins,TO,681.98,5
+tocantins,MG,681.38,6
+rio paranaiba,MG,680.27,9
+abelardo luz,SC,679.7,6
+cuite,PB,678.89,3
+abrantes,BA,678.0,2
+tracunhaem,PE,677.99,2
+cacequi,RS,676.99,4
+rio do campo,SC,674.95,4
+taquarivai,SP,674.89,3
+sao ludgero,SC,673.32,3
+brasilia de minas,MG,671.74,9
+alta floresta d'oeste,RO,669.89,3
+papanduva,SC,669.41,8
+catigua,SP,668.57,6
+mundo novo,MS,667.99,3
+palmitos,SC,667.9,5
+pesqueira,PE,667.79,9
+itau,RN,666.8,2
+muzambinho,MG,665.8,9
+caetanopolis,MG,664.57,8
+jaguaribe,CE,663.98,5
+ruy barbosa,BA,662.96,7
+garrafao do norte,PA,662.89,3
+piedade de caratinga,MG,662.07,7
+anicuns,GO,661.93,8
+jaru,RO,660.59,6
+medeiros neto,BA,660.24,7
+campina verde,MG,659.48,10
+morada nova de minas,MG,658.89,3
+marilac,MG,657.8,1
+cidreira,RS,656.12,5
+livramento de nossa senhora,BA,655.54,5
+jequeri,MG,655.0,1
+coribe,BA,654.97,8
+belem do sao francisco,PE,654.5,2
+presidente getulio,SC,654.18,6
+itirucu,BA,653.28,3
+grajau,MA,652.79,5
+guaraci,PR,651.9,2
+baldim,MG,650.99,2
+santa helena,MA,649.7,3
+sapucaia,RJ,648.74,5
+acopiara,CE,647.67,7
+lagoa formosa,MG,647.57,7
+tres cachoeiras,RS,646.27,7
+cunha pora,SC,645.42,5
+caninde,CE,645.38,6
+terra rica,PR,644.67,7
+frei inocencio,MG,644.29,5
+carmo de minas,MG,643.96,3
+cajuru,SP,643.76,9
+buriticupu,MA,640.77,5
+esperantinopolis,MA,640.61,3
+salto grande,SP,640.0,1
+maristela,SP,639.32,4
+urucui,PI,638.97,4
+jequitiba,MG,636.9,2
+miranorte,TO,635.9,2
+itaperucu,PR,635.84,4
+nova europa,SP,634.44,8
+madre de deus,BA,633.32,7
+jucurutu,RN,632.98,4
+conceicao dos ouros,MG,632.78,4
+juti,MS,631.79,4
+manoel ribas,PR,631.65,4
+sao bento do sapucai,SP,630.54,7
+nhandeara,SP,630.26,8
+cururupu,MA,629.26,3
+iati,PE,628.99,3
+santa helena,PR,628.15,9
+morro reuter,RS,627.34,3
+palmeira,SC,626.9,3
+viana,MA,622.97,5
+alto santo,CE,622.89,3
+barro,CE,621.89,4
+camapua,MS,621.29,6
+belo oriente,MG,620.39,5
+monte azul,MG,619.9,5
+perola d'oeste,PR,619.9,2
+itororo,BA,619.2,2
+nova hartz,RS,618.88,3
+sao cristovao,SE,618.69,7
+mario campos,MG,618.64,3
+ribeira do pombal,BA,618.19,8
+maracacume,MA,617.18,4
+miguel calmon,BA,616.64,5
+jauru,MT,613.79,5
+firminopolis,GO,613.49,7
+acu,RN,613.08,3
+bataguassu,MS,613.0,5
+joao lisboa,MA,612.89,5
+nepomuceno,MG,610.94,9
+ivai,PR,610.77,2
+jaragua,GO,610.67,7
+graccho cardoso,SE,610.0,1
+santo cristo,RS,609.45,7
+porto dos gauchos,MT,609.0,1
+breves,PA,609.0,1
+anitapolis,SC,608.99,2
+colina,SP,608.68,9
+bela vista de goias,GO,608.66,7
+juatuba,MG,607.9,4
+goiana,PE,606.93,9
+itaitinga,CE,606.89,4
+lindoia,SP,606.03,9
+avelar,RJ,606.0,4
+lagoinha,SP,605.98,3
+guaraciaba do norte,CE,605.15,4
+jupi,PE,604.9,2
+conceicao da feira,BA,603.99,2
+perdoes,MG,603.88,9
+comendador levy gasparian,RJ,603.69,7
+capanema,PR,602.59,9
+itambacuri,MG,601.77,6
+pirai do sul,PR,601.29,6
+matias olimpio,PI,600.0,1
+lavrinhas,SP,599.9,1
+canto do buriti,PI,599.5,1
+campanha,MG,598.79,7
+vere,PR,598.39,3
+rio pardo de minas,MG,597.69,5
+pouso redondo,SC,597.29,3
+nova mamore,RO,594.9,2
+bady bassitt,SP,594.7,7
+lavras do sul,RS,593.8,3
+sobradinho,BA,592.69,5
+fernando prestes,SP,591.48,6
+petrolandia,SC,589.85,5
+paulo de faria,SP,588.58,5
+coronel joao sa,BA,587.99,3
+passo de torres,SC,587.99,7
+lagoa dourada,MG,586.78,5
+senador pompeu,CE,585.94,4
+custodia,PE,584.88,5
+raposo,RJ,584.7,3
+morungaba,SP,582.69,7
+uchoa,SP,582.64,3
+marco,CE,582.6,3
+ubirata,PR,582.18,7
+capela,SE,580.94,3
+santa cruz das palmeiras,SP,580.59,9
+vera cruz,RS,579.98,4
+sao bento,PB,579.89,3
+medina,MG,579.19,6
+sao jose do divino,PI,579.0,1
+jaqueira,PE,578.99,3
+santa cruz de minas,MG,578.89,5
+tanque d'arca,AL,578.0,2
+anta gorda,RS,577.7,4
+horizontina,RS,576.54,7
+nova aurora,PR,575.89,3
+aguas vermelhas,MG,574.58,3
+macaiba,RN,574.44,5
+mateus leme,MG,574.27,9
+candelaria,RS,573.39,4
+sirinhaem,PE,571.88,5
+nova mutum,MT,571.38,5
+sapucai-mirim,MG,569.79,4
+sao jeronimo,RS,569.75,7
+guaranta,SP,569.29,5
+sao bento,MA,569.0,2
+belem,AL,568.99,3
+ipiabas,RJ,568.87,4
+soledade,RS,568.79,5
+alfredo vasconcelos,MG,567.99,3
+timbauba,PE,567.67,7
+silva jardim,RJ,567.59,4
+barra de santo antonio,AL,567.0,2
+hidreletrica tucurui,PA,564.78,3
+porto xavier,RS,564.46,5
+padre carvalho,MG,563.0,1
+rio largo,AL,562.71,6
+terra roxa,PR,561.07,3
+paulo frontin,PR,560.9,5
+campo ere,SC,560.6,7
+paranapanema,SP,560.45,11
+paulino neves,MA,559.99,1
+marechal floriano,ES,559.64,5
+nossa senhora das dores,SE,559.0,1
+desterro,PB,559.0,1
+paraipaba,CE,558.97,5
+rio das flores,RJ,558.68,6
+irai,RS,557.89,2
+sao valentim,RS,557.89,3
+morro do chapeu,BA,557.57,7
+ibiai,MG,556.89,3
+parauna,GO,556.88,4
+jesuitas,PR,556.55,4
+rafard,SP,556.4,5
+castelandia,GO,554.98,5
+antonio prado,RS,554.2,5
+barra do ribeiro,RS,553.78,5
+oeiras,PI,553.44,6
+itapecuru mirim,MA,552.97,4
+rio do pires,BA,552.8,4
+rifaina,SP,552.8,2
+paracuru,CE,550.89,4
+uibai,BA,549.98,4
+nova bandeirantes,MT,548.51,4
+sao jose do norte,RS,548.5,7
+capim grosso,BA,547.89,5
+apiai,SP,547.57,6
+surubim,PE,546.87,5
+orizona,GO,546.81,6
+teixeira soares,PR,545.69,1
+sao sepe,RS,544.35,6
+jeceaba,MG,544.23,6
+campos gerais,MG,544.06,5
+cristais paulista,SP,543.78,4
+pinheiro machado,RS,542.89,5
+roque gonzales,RS,542.88,5
+orindiuva,SP,541.78,5
+guaracai,SP,541.49,5
+sao sebastiao do paraiba,RJ,540.0,1
+pedra preta,MT,539.89,4
+catuipe,RS,539.8,4
+campo novo,RS,539.79,2
+sales oliveira,SP,538.15,6
+piripiri,PI,537.28,7
+rio novo,MG,536.79,4
+iguai,BA,535.99,2
+sao miguel do tapuio,PI,534.0,3
+cristal,RS,533.0,3
+francisco sa,MG,532.8,3
+pitanga,PR,532.7,3
+rio novo do sul,ES,531.68,6
+ariranha,SP,531.49,5
+posto da mata,BA,530.98,4
+cacule,BA,529.78,3
+vianopolis,GO,529.67,3
+tanhacu,BA,528.78,4
+sao gabriel do oeste,MS,526.72,7
+canapolis,MG,525.8,5
+iguaracu,PR,525.7,2
+eldorado,SP,524.76,6
+curuca,PA,524.7,3
+ilha de itamaraca,PE,524.44,4
+euclides da cunha,BA,524.18,5
+guimarania,MG,523.9,4
+fortuna,MA,523.89,3
+santa cruz,RN,522.74,4
+sao francisco de paula,RS,520.79,5
+horizonte,CE,519.99,5
+mar vermelho,AL,519.98,2
+campina da lagoa,PR,519.7,2
+uaua,BA,519.0,4
+araputanga,MT,517.45,4
+ubaitaba,BA,517.23,4
+gloria do goita,PE,516.99,2
+ivaipora,PR,516.75,7
+santa cruz cabralia,BA,515.88,5
+arcoverde,PE,515.8,5
+bela vista do paraiso,PR,515.49,3
+lajinha,MG,515.07,3
+rio acima,MG,513.66,8
+rio piracicaba,MG,512.75,4
+limoeiro,PE,511.59,7
+analandia,SP,511.03,4
+xambre,PR,511.0,2
+tiradentes,MG,510.86,4
+colinas do tocantins,TO,510.5,3
+ipora do oeste,SC,509.85,6
+conceicao do castelo,ES,507.83,5
+ibiraci,MG,507.8,4
+denise,MT,507.0,2
+valparaiso,SP,506.92,8
+pote,MG,506.9,3
+santo antonio do jacinto,MG,505.49,8
+tangua,RJ,504.88,6
+milagres,BA,502.54,2
+guarara,MG,501.99,2
+urbano santos,MA,501.79,5
+sao carlos,SC,500.38,5
+cardoso moreira,RJ,500.02,6
+jiquirica,BA,499.99,1
+vargeao,SC,499.9,1
+palestina,SP,499.55,10
+sao tiago,MG,499.27,5
+jaquirana,RS,499.0,1
+lobato,PR,498.54,3
+jatoba,PE,498.25,4
+barbosa ferraz,PR,497.9,3
+capanema,PA,497.88,4
+aracoiaba,CE,497.8,3
+cachoeira de minas,MG,497.4,7
+maravilha,SC,497.17,9
+presidente bernardes,SP,496.85,6
+potiragua,BA,495.97,7
+ipupiara,BA,495.0,1
+altonia,PR,494.9,3
+general salgado,SP,493.59,6
+florestopolis,PR,492.7,3
+ribeirao claro,PR,492.69,5
+matipo,MG,491.19,4
+nova aurora,GO,490.0,1
+caldas,MG,489.7,5
+sao sebastiao do alto,RJ,488.98,4
+una,BA,488.78,5
+senges,PR,487.39,5
+sao jose do cedro,SC,486.59,5
+barra de guabiraba,PE,486.4,2
+pirapetinga,MG,486.39,7
+muqui,ES,485.48,4
+barra dos coqueiros,SE,484.82,3
+piritiba,BA,484.69,6
+propria,SE,483.89,4
+quatis,RJ,483.69,5
+teixeiras,MG,483.58,6
+carajas,PA,483.22,4
+tenente portela,RS,482.79,3
+pindare mirim,MA,481.9,3
+carai,MG,481.87,6
+breu branco,PA,481.74,3
+pedrinopolis,MG,481.01,3
+feira nova,PE,480.78,5
+pio xii,MA,479.99,1
+penaforte,CE,479.89,2
+guaraci,SP,479.8,2
+itapirapua paulista,SP,479.8,2
+cachoeira,BA,479.79,4
+itarantim,BA,478.97,3
+alto caparao,MG,478.9,2
+sao jose de uba,RJ,478.89,3
+colonia leopoldina,AL,477.98,2
+carius,CE,477.88,3
+bom jardim,PE,477.7,2
+amaraji,PE,476.89,2
+paulista,PB,475.6,1
+paula freitas,PR,474.9,1
+sao joao do manteninha,MG,474.89,3
+edeia,GO,472.9,4
+itobi,SP,472.68,7
+santo antonio,RN,471.8,1
+rio fortuna,SC,469.39,3
+alexania,GO,466.67,5
+bela vista,MS,466.38,3
+severinia,SP,466.13,5
+terra roxa,SP,465.88,3
+rolim de moura,RO,465.05,7
+utinga,BA,463.78,5
+nova cruz,RN,462.88,3
+rio bonito do iguacu,PR,462.8,4
+areia branca dos assis,PR,462.54,3
+santa maria de itabira,MG,462.3,4
+sao joao da ponte,MG,461.84,1
+pedra bela,SP,460.9,3
+granja,CE,460.68,5
+nova petropolis,RS,459.89,8
+itapirapua,GO,459.8,2
+carmo da mata,MG,459.7,6
+tupi paulista,SP,459.41,6
+tumiritinga,MG,459.0,1
+magda,SP,458.99,2
+cabo verde,MG,458.79,3
+cedral,SP,458.34,6
+trairi,CE,457.0,2
+congonhal,MG,455.84,4
+santa maria do suacui,MG,454.9,2
+floresta,PE,454.58,6
+entre-ijuis,RS,454.5,3
+caputira,MG,454.28,2
+icapui,CE,454.25,5
+caririacu,CE,454.0,2
+conquista,MG,453.88,6
+sananduva,RS,453.77,6
+ribeirao branco,SP,452.99,2
+praia grande,SC,452.74,4
+dom feliciano,RS,452.05,5
+fatima,BA,451.9,2
+cachoeira alta,GO,451.76,6
+rianapolis,GO,451.68,4
+vila dos cabanos,PA,451.23,4
+sao martinho,SC,451.0,2
+boa viagem,CE,450.99,3
+tutoia,MA,449.89,2
+pintadas,BA,449.8,2
+dom aquino,MT,449.8,3
+engenheiro paulo de frontin,RJ,449.12,6
+itueta,MG,448.89,2
+mutuipe,BA,448.79,4
+baturite,CE,447.97,3
+poco verde,SE,447.8,4
+jardim do serido,RN,445.9,3
+sao jose do egito,PE,444.7,4
+quadra,SP,443.9,3
+bonfinopolis,GO,441.87,2
+areias,SP,441.86,3
+cruz machado,PR,441.77,3
+limeira do oeste,MG,441.7,2
+solanea,PB,440.0,1
+rio tinto,PB,439.9,2
+dobrada,SP,437.5,2
+ouro preto do oeste,RO,437.49,4
+inhapim,MG,436.35,7
+palmares do sul,RS,435.77,5
+corupa,SC,434.65,4
+apiaca,ES,434.28,6
+minas novas,MG,433.77,4
+bituruna,PR,433.38,5
+cambira,PR,432.0,2
+pindoba,AL,432.0,2
+vera cruz do oeste,PR,431.56,3
+kalore,PR,429.99,2
+boa vista do cadeado,RS,429.98,1
+araruna,PR,429.97,4
+montauri,RS,429.89,2
+ipiacu,MG,429.88,3
+carolina,MA,429.8,2
+arembepe,BA,429.7,2
+taguatinga,DF,429.1,4
+aquiraz,CE,428.99,2
+nova palma,RS,428.9,2
+serrita,PE,428.9,2
+cachoeira de pajeu,MG,428.8,3
+dionisio cerqueira,SC,428.0,3
+bodoquena,MS,428.0,2
+sao joao,PE,427.0,1
+ibirarema,SP,426.88,5
+pinheiro,MA,426.8,4
+santa isabel do ivai,PR,425.9,3
+ibicarai,BA,424.88,5
+alcantara,MA,424.8,1
+sao pedro do ivai,PR,424.74,3
+ponte serrada,SC,423.9,3
+itabela,BA,423.89,4
+gameleiras,MG,423.89,3
+luminarias,MG,423.8,3
+mantenopolis,ES,423.79,4
+sao geraldo,MG,423.78,4
+roseira,SP,423.68,5
+nova veneza,SC,422.89,3
+torrinha,SP,422.67,6
+castelo do piaui,PI,422.6,2
+pedrinhas paulista,SP,420.87,4
+maravilhas,MG,420.81,4
+sao goncalo do amarante,CE,420.77,5
+mato verde,MG,420.43,3
+pinhao,SE,420.0,1
+nazare,BA,419.84,3
+poco redondo,SE,419.8,1
+sanclerlandia,GO,419.79,4
+cocalinho,MT,418.87,4
+salto veloso,SC,418.8,4
+cristalia,MG,418.7,3
+rio branco do sul,PR,418.57,6
+alto boa vista,MT,418.0,5
+gandu,BA,417.7,4
+caraiba,PE,416.89,2
+baianopolis,BA,416.3,2
+pedra azul,MG,416.12,5
+palma,MG,415.89,4
+martinho campos,MG,415.2,2
+bandeira do sul,MG,414.9,2
+irai de minas,MG,414.89,2
+esperantina,PI,414.66,4
+travessao,RJ,414.09,4
+arace,ES,413.4,4
+presidente olegario,MG,412.91,6
+santa maria da boa vista,PE,412.08,2
+alto piquiri,PR,412.0,1
+astorga,PR,411.77,7
+dores do rio preto,ES,411.76,4
+sao jose do ouro,RS,411.38,5
+bertolinia,PI,411.0,1
+brejo da madre de deus,PE,410.8,4
+lagoa real,BA,410.0,1
+porto alegre do norte,MT,410.0,1
+jucurucu,BA,409.98,2
+senador guiomard,AC,409.98,2
+aurea,RS,409.5,2
+rodeiro,MG,409.4,3
+mondai,SC,409.0,2
+eliseu martins,PI,408.98,4
+narandiba,SP,408.98,2
+santa cruz da conceicao,SP,408.9,4
+terra nova do norte,MT,408.8,3
+portalegre,RN,408.8,2
+martins soares,MG,408.79,6
+japura,PR,408.5,5
+bom jesus do tocantins,PA,407.9,3
+joao ramalho,SP,407.89,3
+capitao leonidas marques,PR,407.78,5
+paramirim,BA,407.68,5
+itaipava,ES,406.84,4
+silveiras,SP,406.5,3
+glicerio,RJ,405.99,2
+capitao poco,PA,405.38,3
+pontalina,GO,405.0,2
+rodelas,BA,404.9,3
+itaoca,ES,404.9,2
+sao paulo das missoes,RS,404.87,2
+panorama,SP,404.39,5
+werneck,RJ,403.89,2
+jacui,MG,403.74,4
+nova brasilandia d'oeste,RO,402.8,2
+lontras,SC,402.5,3
+bom repouso,MG,402.29,4
+general carneiro,PR,401.48,5
+nossa senhora do o,PE,401.0,2
+brauna,SP,400.79,5
+ipubi,PE,400.47,3
+barra de santa rosa,PB,400.4,2
+sao sebastiao do passe,BA,399.89,5
+mata,RS,399.85,1
+sao miguel do guapore,RO,399.44,4
+embauba,SP,399.0,1
+ibitira,BA,399.0,1
+itupiranga,PA,399.0,1
+sao miguel do gostoso,RN,398.9,2
+nova santa rosa,PR,398.88,4
+riolandia,SP,398.8,3
+ituacu,BA,398.5,3
+clementina,SP,397.54,4
+machadinho d'oeste,RO,396.98,3
+candido sales,BA,396.79,3
+elias fausto,SP,396.4,5
+seringueiras,RO,395.99,2
+erval grande,RS,395.9,2
+capinzal do norte,MA,395.0,2
+itambe,PE,394.78,4
+santo antonio das missoes,RS,393.89,4
+guaranta do norte,MT,393.87,5
+perdigao,MG,393.49,7
+balneario barra do sul,SC,393.3,4
+balneario rincao,SC,393.0,3
+piedade dos gerais,MG,392.88,3
+cameta,PA,392.8,4
+jardim,CE,392.65,2
+dom silverio,MG,392.24,4
+chapada gaucha,MG,391.69,4
+diamante do norte,PR,391.25,5
+iraquara,BA,390.8,5
+carambei,PR,390.8,3
+amanari,CE,390.0,1
+governador celso ramos,SC,389.97,3
+alto parana,PR,389.9,2
+tabatinga,SP,389.69,5
+confins,MG,389.0,1
+sao felix de minas,MG,388.9,1
+ipaporanga,CE,388.9,2
+pitimbu,PB,388.9,1
+santa lucia,SP,388.89,3
+sao romao,MG,388.49,5
+agua limpa,GO,388.0,1
+tombos,MG,387.69,5
+florai,PR,387.39,2
+nova bassano,RS,387.24,4
+capitolio,MG,386.89,5
+diamantino,MT,386.49,7
+rio real,BA,386.0,3
+guaraniacu,PR,385.97,5
+campos verdes,GO,385.6,1
+oiapoque,AP,385.0,1
+vicentinopolis,GO,384.8,2
+munhoz,MG,384.67,4
+reserva do cabacal,MT,383.9,2
+rio azul,PR,383.7,5
+iapu,MG,383.15,4
+ibiam,SC,382.99,4
+ceu azul,PR,382.56,7
+rio claro,RJ,380.98,3
+nova alvorada do sul,MS,380.85,3
+juruaia,MG,380.78,6
+virgolandia,MG,380.0,2
+irape,SP,379.98,2
+anadia,AL,379.89,2
+balneario arroio do silva,SC,379.88,4
+ipu,CE,379.88,4
+manga,MG,378.8,3
+bonito,BA,378.8,2
+tupancireta,RS,378.77,4
+mata grande,AL,378.65,2
+juara,MT,378.49,5
+cruzilia,MG,377.9,4
+apodi,RN,377.89,3
+sud mennucci,SP,377.87,5
+colombia,SP,377.72,5
+joviania,GO,376.97,5
+santo antonio do amparo,MG,376.72,4
+cidelandia,MA,375.96,1
+tucunduva,RS,374.99,3
+passira,PE,374.98,1
+chapada do norte,MG,373.9,2
+adolfo,SP,373.8,5
+campos altos,MG,373.68,5
+itapemirim,ES,372.7,4
+mendes pimentel,MG,372.69,5
+ladario,MS,372.59,5
+amelia rodrigues,BA,372.39,3
+valentim gentil,SP,372.03,3
+cambara do sul,RS,372.0,1
+serrolandia,BA,371.9,3
+aurora,SC,371.9,2
+caldas do jorro,BA,370.0,1
+bandeirantes do tocantins,TO,369.98,2
+indiara,GO,369.91,4
+antonio cardoso,BA,369.89,2
+remanso,BA,369.69,5
+altaneira,CE,369.6,2
+pingo-d'agua,MG,369.48,1
+inaja,PE,369.4,2
+centenario do sul,PR,369.13,4
+pindorama,SP,368.9,2
+quitandinha,PR,368.9,2
+paulo jacinto,AL,368.89,2
+itambe,BA,368.6,3
+sao simao,GO,368.6,4
+conceicao do tocantins,TO,367.97,3
+aurora,CE,367.69,3
+santa rita de minas,MG,367.67,3
+francisco badaro,MG,367.46,3
+canhotinho,PE,367.0,2
+agua doce do norte,ES,365.48,4
+santa tereza do oeste,PR,364.9,3
+guidoval,MG,364.9,2
+rio do oeste,SC,364.89,3
+pedro ii,PI,364.8,2
+santanesia,RJ,364.5,4
+itau de minas,MG,364.45,5
+acari,RN,364.0,1
+altinho,PE,363.8,2
+pedro canario,ES,363.79,5
+japira,PR,363.79,3
+itinga,MG,363.5,3
+maximiliano de almeida,RS,363.49,3
+madre de deus de minas,MG,362.96,3
+santa margarida,MG,362.9,2
+camocim de sao felix,PE,362.9,2
+piedade do rio grande,MG,362.78,3
+maripa,PR,361.97,3
+barreirinhas,MA,361.42,4
+reboucas,PR,361.27,6
+junqueiro,AL,360.89,2
+candido de abreu,PR,360.8,4
+ponto novo,BA,360.0,1
+alvorada d'oeste,RO,359.98,1
+sao joao batista do gloria,MG,359.6,3
+chorozinho,CE,359.0,1
+iguatama,MG,358.9,4
+abadia dos dourados,MG,358.9,3
+alvaro de carvalho,SP,358.0,2
+taquaracu de minas,MG,358.0,2
+ribeirao do sul,SP,357.9,3
+afranio,PE,357.9,2
+caibate,RS,357.88,2
+peixoto de azevedo,MT,357.7,4
+morpara,BA,357.12,2
+goncalves,MG,356.9,3
+indiapora,SP,356.67,3
+sales,SP,356.52,5
+caravelas,BA,356.4,3
+tapejara,PR,355.9,2
+taguatinga,TO,355.79,3
+tangara,SC,354.9,1
+jari,RS,354.8,4
+caldeirao grande,BA,354.8,3
+redentora,RS,354.59,3
+florida paulista,SP,353.79,4
+planalto,PR,353.7,4
+quintana,SP,353.0,4
+sucesso,CE,352.9,3
+rio maria,PA,352.88,3
+caiaponia,GO,352.78,4
+sao jorge do ivai,PR,352.52,1
+montalvania,MG,352.2,3
+capela de santana,RS,352.0,2
+itapura,SP,351.87,6
+serra dos aimores,MG,351.82,5
+tres fronteiras,SP,350.39,5
+ibipitanga,BA,349.98,2
+boa vista das missoes,RS,349.9,1
+natividade,TO,349.9,1
+marechal deodoro,AL,349.9,1
+paripueira,AL,349.9,1
+bequimao,MA,349.9,1
+governador portela,RJ,349.8,4
+arneiroz,CE,349.6,2
+sao joao do paraiso,MG,349.5,4
+taciba,SP,348.98,2
+carinhanha,BA,348.9,2
+tomazina,PR,348.8,3
+forquilha,CE,348.47,4
+sao roque do canaa,ES,348.0,5
+augusto correa,PA,347.99,3
+massaranduba,SC,347.86,3
+bandeira,MG,347.71,3
+moncoes,SP,346.98,2
+governador eugenio barros,MA,346.32,1
+serrania,MG,345.89,2
+moreira sales,PR,345.67,3
+arandu,SP,345.5,4
+ouvidor,GO,345.0,1
+serra azul de minas,MG,344.99,2
+aratuba,CE,343.9,2
+indiana,SP,343.89,3
+dom eliseu,PA,343.87,5
+pongai,SP,343.8,4
+timburi,SP,343.3,3
+sertania,PE,343.29,4
+monte verde,MG,343.1,3
+ascurra,SC,342.6,4
+imaculada,PB,340.89,3
+cambuquira,MG,340.76,5
+iacu,BA,340.7,4
+santa clara do sul,RS,339.99,2
+nova veneza,GO,339.95,4
+pacuja,CE,339.95,1
+apuiares,CE,339.89,2
+itacarambi,MG,339.79,3
+nova lacerda,MT,339.74,1
+carnaubais,RN,339.0,2
+prudente de morais,MG,338.99,3
+coroaci,MG,338.9,2
+tocos,RJ,338.9,2
+jundiai do sul,PR,337.97,3
+sao domingos do prata,MG,337.89,4
+nipoa,SP,337.8,2
+jumirim,SP,337.6,3
+arroio grande,RS,336.77,3
+tejupa,SP,335.18,3
+palmeiras de goias,GO,334.8,3
+macedonia,SP,334.21,4
+milagres,CE,334.0,2
+glicerio,SP,333.99,2
+dom pedro,MA,333.77,3
+satuba,AL,333.73,2
+xambioa,TO,333.68,3
+santa monica,PR,332.88,2
+guaruja do sul,SC,331.44,4
+cumaru,PE,330.99,2
+pien,PR,330.4,4
+belem,PB,330.0,1
+constantina,RS,330.0,1
+monsenhor tabosa,CE,329.8,3
+tanque novo,BA,329.59,3
+iacanga,SP,329.39,6
+jambeiro,SP,329.26,4
+uniao,PI,329.0,1
+hulha negra,RS,329.0,1
+santa terezinha de itaipu,PR,328.94,3
+arenapolis,MT,328.85,2
+sao goncalo do rio preto,MG,328.19,3
+ribeirao do pinhal,PR,328.0,5
+nova ipixuna,PA,328.0,1
+jesuania,MG,327.98,5
+bento de abreu,SP,327.98,2
+lavinia,SP,326.8,4
+pendencias,RN,326.5,2
+goianinha,RN,325.3,3
+montanhas,RN,325.0,1
+pedrao,BA,325.0,1
+jucas,CE,325.0,1
+botupora,BA,325.0,1
+vieiras,MG,325.0,1
+tabuleiro,MG,324.89,2
+arapei,SP,324.89,2
+campinapolis,MT,324.86,3
+barra do mendes,BA,323.99,3
+sobradinho,RS,323.9,3
+porto calvo,AL,323.39,2
+sao jose do hortencio,RS,322.89,2
+cordeiros,BA,322.75,1
+campestre,MG,321.7,3
+rio negro,MS,319.9,1
+sucupira do norte,MA,319.9,2
+juruena,MT,319.9,3
+santa izabel do oeste,PR,319.89,2
+igaci,AL,319.89,2
+fazenda nova,GO,319.79,4
+carmo da cachoeira,MG,319.44,4
+palmeira d'oeste,SP,319.18,5
+laranjal do jari,AP,318.8,2
+joaquim tavora,PR,317.98,3
+ita,SC,317.89,3
+rio casca,MG,317.43,5
+sooretama,ES,317.36,5
+serra do ramalho,BA,317.09,4
+sabinopolis,MG,317.08,5
+dona euzebia,MG,316.89,2
+ribeirao,PE,316.4,4
+piranga,MG,316.19,4
+itapaci,GO,315.8,4
+iconha,ES,315.74,5
+bacuri,MA,315.42,3
+tunapolis,SC,315.39,1
+coelho neto,MA,314.9,3
+sitio novo do tocantins,TO,314.9,2
+monte gordo,BA,314.9,2
+belo vale,MG,313.8,3
+conceicao das pedras,MG,313.59,4
+olho d'agua das cunhas,MA,312.99,2
+rancho queimado,SC,312.89,2
+itatim,BA,312.69,3
+santa mariana,PR,311.25,4
+sao jose da bela vista,SP,310.84,3
+soledade de minas,MG,309.94,5
+sao pedro da agua branca,MA,309.9,1
+feliz deserto,AL,309.89,2
+sao tomas de aquino,MG,309.8,3
+tuparetama,PE,309.8,3
+monte carlo,SC,309.5,3
+sertao,RS,309.49,3
+vereda,BA,309.4,2
+pocoes,BA,308.99,2
+mariluz,PR,308.99,2
+curaca,BA,308.9,3
+nova itaberaba,SC,308.89,2
+reserva,PR,308.6,3
+itanhomi,MG,308.55,4
+volta grande,MG,308.38,4
+ouro verde,SP,307.97,3
+conceicao da barra,ES,306.87,3
+mundo novo,GO,306.0,2
+sao martinho,RS,305.99,1
+lagoa do ouro,PE,305.9,2
+imigrante,RS,305.9,3
+estreito,MA,305.89,3
+saudades,SC,305.84,4
+urubici,SC,305.69,3
+maria da fe,MG,305.55,3
+ceara-mirim,RN,305.46,2
+inubia paulista,SP,304.98,3
+brasil novo,PA,304.9,3
+bonito,PA,304.9,2
+anchieta,SC,302.7,3
+claudia,MT,302.68,4
+oscar bressane,SP,301.8,3
+viseu,PA,301.0,1
+pocao,PE,299.99,1
+centro novo do maranhao,MA,299.99,1
+ribeiraozinho,MT,299.98,2
+almino afonso,RN,299.9,1
+sideropolis,SC,299.7,4
+florestal,MG,299.5,3
+ibicoara,BA,299.2,3
+porto rico,PR,299.0,1
+pains,MG,298.33,3
+sao jose do rio claro,MT,298.0,2
+senador cortes,MG,298.0,1
+coluna,MG,297.88,3
+pantano grande,RS,297.79,3
+tres barras,SC,297.34,5
+gilbues,PI,296.0,1
+camutanga,PE,295.8,3
+curiuva,PR,295.7,4
+bananeiras,PB,295.24,5
+colonia vitoria,PR,294.91,5
+oroco,PE,294.9,3
+ibimirim,PE,294.79,3
+angulo,PR,294.7,3
+carneirinho,MG,294.5,3
+irani,SC,294.39,4
+verissimo,MG,294.12,3
+barra do turvo,SP,293.9,3
+santa ines,BA,293.9,3
+tibagi,PR,293.77,4
+planalto,RS,292.99,3
+novo sao joaquim,MT,292.6,3
+cruzalia,SP,292.4,3
+americano do brasil,GO,291.49,3
+itapissuma,PE,290.8,3
+aguas frias,SC,290.0,1
+guariroba,SP,289.99,2
+agua doce,SC,289.98,1
+diamante d'oeste,PR,289.9,1
+vila flores,RS,289.89,3
+maranguape,CE,289.87,3
+iepe,SP,289.58,5
+sao jose do campestre,RN,289.0,1
+cajari,MA,289.0,1
+pirambu,SE,289.0,1
+laranjal,MG,289.0,1
+taboquinhas,BA,289.0,1
+wanderley,BA,288.98,2
+xapuri,AC,288.93,2
+rechan,SP,288.8,2
+ubaporanga,MG,288.78,3
+canitar,SP,287.25,2
+santa teresinha,BA,287.0,2
+sao pedro da uniao,MG,286.89,3
+tupandi,RS,285.99,3
+pereiro,CE,285.89,3
+humaita,AM,285.85,4
+congonhinhas,PR,285.7,2
+santa luzia,PB,285.3,5
+arroio do tigre,RS,285.0,2
+sao francisco do guapore,RO,284.9,2
+monnerat,RJ,284.84,2
+coremas,PB,284.69,3
+riacho dos machados,MG,284.0,3
+jeronimo monteiro,ES,284.0,2
+motuca,SP,283.9,3
+urai,PR,283.9,3
+leopoldo de bulhoes,GO,283.02,1
+porteirinha,MG,282.69,5
+balneario gaivota,SC,282.3,3
+antonio prado de minas,MG,282.0,3
+abre campo,MG,281.68,5
+ipumirim,SC,281.41,5
+aiuruoca,MG,281.09,4
+itapetim,PE,280.8,2
+santo expedito,SP,280.0,1
+nossa senhora de caravaggio,SC,280.0,2
+novo alegre,TO,279.99,1
+porto franco,MA,279.99,2
+coracao de maria,BA,279.9,1
+sao joao do oriente,MG,279.9,2
+americo de campos,SP,279.9,1
+bom jesus da serra,BA,279.89,2
+pilao arcado,BA,279.87,4
+formigueiro,RS,279.8,2
+renascenca,PR,279.6,4
+medeiros,MG,279.49,2
+candeias do jamari,RO,279.0,1
+paranhos,MS,279.0,1
+ibiaca,RS,278.89,2
+vargem alta,ES,278.89,5
+sao jose do cerrito,SC,278.89,3
+ouro,SC,278.79,1
+campanario,MG,278.7,2
+cassia,MG,278.29,6
+sao sebastiao do rio verde,MG,278.0,1
+ibiara,PB,278.0,1
+ibiraja,BA,277.95,2
+doverlandia,GO,277.92,2
+gaurama,RS,277.88,3
+araci,BA,277.87,3
+sao francisco do conde,BA,276.8,3
+ribeirao vermelho,MG,275.7,2
+itapeva,MG,275.7,5
+aguas de sao pedro,SP,274.99,2
+santaluz,BA,274.89,3
+serranopolis do iguacu,PR,274.89,2
+ivate,PR,273.98,3
+pirenopolis,GO,273.87,4
+miranda,MS,273.8,4
+vista alegre do alto,SP,272.99,3
+itaquirai,MS,272.9,2
+barra do tarrachil,BA,272.9,3
+itiuba,BA,272.89,4
+pardinho,SP,272.8,1
+perola,PR,272.74,2
+chapadao do lageado,SC,272.7,1
+dom vicoso,MG,272.3,2
+palmitinho,RS,271.69,5
+santo antonio do jardim,SP,271.02,5
+magalhaes de almeida,MA,270.9,1
+cariri do tocantins,TO,270.89,2
+vargem grande do rio pardo,MG,270.0,1
+santana da vargem,MG,269.95,4
+angical,BA,269.9,1
+itambe,PR,269.9,1
+alagoinha,PB,269.9,2
+livramento,PB,269.9,1
+ipaumirim,CE,269.9,1
+itambaraca,PR,269.8,2
+papagaios,MG,269.67,4
+itamari,BA,268.98,3
+frei martinho,PB,268.9,2
+buriti dos lopes,PI,268.9,2
+araripe,CE,268.6,2
+monte alverne,RS,268.0,1
+vicencia,PE,268.0,2
+jabora,SC,267.9,2
+pedra,PE,267.68,3
+inimutaba,MG,266.7,2
+arealva,SP,266.68,4
+alto rio novo,ES,266.5,2
+janiopolis,PR,265.97,3
+setubinha,MG,265.89,3
+cabeceira grande,MG,265.89,3
+maurilandia,GO,265.63,4
+itapagipe,MG,265.49,5
+recreio,MG,264.98,3
+romaria,MG,264.9,2
+sao vicente,RN,264.89,2
+sangao,SC,264.79,3
+mari,PB,264.55,3
+atalanta,SC,263.99,1
+santa cruz,PE,263.9,2
+itaporanga,PB,263.8,2
+saudade do iguacu,PR,263.79,4
+sao joao do triunfo,PR,263.72,3
+sao pedro de alcantara,SC,263.0,2
+rondon,PR,262.98,2
+abaiara,CE,262.9,2
+vera,MT,262.79,3
+indianopolis,PR,262.79,4
+arvorezinha,RS,262.5,4
+nova alvorada,RS,261.8,3
+jacinto machado,SC,260.49,4
+capao do cipo,RS,260.0,3
+uniao dos palmares,AL,259.99,1
+feliz natal,MT,259.99,1
+novo oriente de minas,MG,259.99,1
+trabiju,SP,259.99,1
+goiabeira,MG,259.98,2
+paraibano,MA,259.91,3
+salto do itarare,PR,259.9,1
+santa terezinha,PE,259.9,1
+mucurici,ES,259.8,1
+borrazopolis,PR,259.59,2
+nova esperanca do sul,RS,259.4,2
+altamira do parana,PR,259.1,2
+rio do antonio,BA,259.0,2
+cocais,MG,259.0,1
+soledade,PB,258.9,3
+alto garcas,MT,258.8,2
+dona francisca,RS,258.7,2
+princesa isabel,PB,258.0,1
+jose de freitas,PI,257.9,3
+mucuge,BA,256.99,1
+major vieira,SC,256.89,3
+bataypora,MS,256.89,2
+anita garibaldi,SC,256.78,5
+santo antonio do caiua,PR,256.3,1
+bernardino de campos,SP,256.09,4
+jardim,MS,256.0,3
+minas do leao,RS,256.0,1
+nova soure,BA,255.52,3
+icarai de minas,MG,254.9,2
+nova fatima,PR,254.89,4
+nova erechim,SC,254.79,3
+restinga seca,RS,254.69,3
+olho d'agua das flores,AL,254.48,3
+miraima,CE,254.0,2
+urupa,RO,253.57,3
+igaratinga,MG,253.52,1
+alterosa,MG,252.3,3
+jequia da praia,AL,251.91,2
+buritirama,BA,251.9,2
+quatigua,PR,251.7,5
+campo do meio,MG,251.69,4
+formoso do araguaia,TO,251.28,4
+pouso alto,MG,251.0,3
+engenheiro passos,RJ,250.89,2
+caninde de sao francisco,SE,250.8,2
+presidente juscelino,MA,249.99,1
+humildes,BA,249.99,1
+armazem,SC,249.9,2
+cedro,CE,249.9,1
+santana do ipanema,AL,249.9,1
+divinesia,MG,249.9,1
+campestre do maranhao,MA,249.89,2
+cortes,PE,249.89,2
+potim,SP,249.8,2
+glorinha,RS,249.8,2
+itaguacu da bahia,BA,249.7,1
+brejo grande,SE,249.0,1
+riqueza,SC,248.9,3
+sume,PB,248.89,3
+sarapui,SP,248.88,2
+vigia,PA,248.79,3
+santa helena de minas,MG,248.34,2
+buenos aires,PE,247.9,2
+pirauba,MG,247.77,3
+ipigua,SP,247.24,2
+luisburgo,MG,246.98,2
+sapeacu,BA,246.79,2
+potengi,CE,245.89,2
+nova monte verde,MT,245.79,3
+vargem alegre,MG,244.99,2
+itaituba,PA,243.88,3
+ivinhema,MS,243.69,3
+inacio martins,PR,242.99,5
+irupi,ES,242.99,2
+moju,PA,242.88,4
+ametista do sul,RS,242.8,2
+santa luzia,MA,242.7,2
+anta,RJ,241.88,3
+porto trombetas,PA,241.8,2
+ocaucu,SP,241.6,5
+carmesia,MG,241.1,1
+santana dos montes,MG,241.0,2
+buritis,RO,240.98,2
+sao jose do turvo,RJ,240.7,3
+carvalhopolis,MG,240.33,3
+galinhos,RN,240.0,1
+osvaldo kroeff,RS,239.99,1
+santo antonio do grama,MG,239.9,2
+araponga,MG,239.9,2
+junco do serido,PB,239.89,2
+candido mendes,MA,239.8,1
+pentecoste,CE,239.8,2
+manduri,SP,239.62,3
+sao luis do quitunde,AL,239.3,2
+pau brasil,BA,239.2,1
+paulo lopes,SC,238.99,2
+muniz freire,ES,238.9,2
+presidente kennedy,ES,238.65,2
+maracana,SC,238.0,2
+campina do monte alegre,SP,237.9,2
+nazario,GO,237.89,2
+serra de sao bento,RN,236.9,2
+paranaiguara,GO,236.89,3
+rosana,SP,236.6,4
+caiana,MG,235.9,3
+caraibas,BA,235.9,1
+jampruca,MG,235.9,1
+piracuruca,PI,235.9,2
+pedro afonso,TO,235.89,3
+neopolis,SE,235.0,1
+buique,PE,235.0,1
+muliterno,RS,235.0,1
+joaquim nabuco,PE,234.87,4
+porto esperidiao,MT,234.8,2
+presidente tancredo neves,BA,234.68,4
+sao tome,PR,234.07,2
+pimenta,MG,233.99,2
+alto horizonte,GO,233.91,2
+chaveslandia,MG,233.79,2
+delfinopolis,MG,233.59,3
+parai,RS,233.4,3
+cafeara,PR,233.0,2
+luizlandia do oeste,MG,232.99,2
+ibiraiaras,RS,232.98,2
+cantagalo,MG,232.95,2
+novo oriente,CE,231.98,3
+moreilandia,PE,230.9,2
+flores,PE,230.7,1
+mendonca,SP,230.37,4
+quipapa,PE,230.0,1
+itanhem,BA,230.0,1
+itape,BA,230.0,1
+mamonas,MG,230.0,1
+canapi,AL,230.0,1
+silvanopolis,TO,229.99,1
+barauna,RN,229.99,1
+boa vista do burica,RS,229.99,1
+japi,RN,229.9,1
+itamogi,MG,229.9,2
+iracema,CE,229.9,2
+portela,RJ,229.9,1
+sao paulo do potengi,RN,229.9,2
+tenente ananias,RN,229.9,1
+bonfim,MG,229.84,4
+espirito santo do turvo,SP,229.7,2
+sete barras,SP,229.69,4
+ciriaco,RS,229.0,1
+piacabucu,AL,228.9,2
+sao jose do belmonte,PE,228.9,2
+sao joao de pirabas,PA,228.89,2
+santana do manhuacu,MG,228.89,3
+benevides,PA,228.89,2
+alpercata,MG,228.8,2
+tomar do geru,SE,228.79,2
+quijingue,BA,228.09,2
+boqueirao do leao,RS,227.9,2
+ibicare,SC,227.4,2
+estrela d'oeste,SP,227.07,1
+sao domingos do araguaia,PA,227.0,1
+sao jose dos quatro marcos,MT,226.99,2
+santa mercedes,SP,226.99,2
+olindina,BA,226.79,3
+rio de contas,BA,226.7,3
+aparecida de sao manuel,SP,226.3,2
+sao felix do coribe,BA,226.0,1
+luiziania,SP,225.49,3
+corguinho,MS,225.41,2
+rio bananal,ES,225.26,4
+santo antonio do itambe,MG,225.06,3
+resende costa,MG,224.79,3
+pocinhos,PB,223.8,3
+mirandiba,PE,221.89,3
+vila rica,MT,221.82,3
+nossa senhora da gloria,SE,221.45,2
+santa cruz de salinas,MG,220.9,2
+grao para,SC,220.8,3
+uniao do sul,MT,220.7,1
+placas,PA,220.29,2
+pequizeiro,TO,219.99,1
+sao jose da laje,AL,219.9,2
+mombaca,CE,219.9,1
+agua clara,MS,219.89,2
+coronel murta,MG,219.8,1
+merces,MG,219.76,4
+boca da mata,AL,219.73,2
+uruoca,CE,219.7,2
+divinolandia de minas,MG,219.59,5
+triunfo,PE,219.0,2
+laje do muriae,RJ,219.0,1
+puxinana,PB,219.0,1
+sao jose da coroa grande,PE,218.9,2
+varzelandia,MG,218.89,3
+rubiacea,SP,218.8,2
+lencois,BA,218.0,1
+quixabeira,BA,216.94,3
+gastao vidigal,SP,216.88,3
+condor,RS,216.8,4
+sericita,MG,216.32,2
+mineiros do tiete,SP,216.15,3
+antonio carlos,SC,215.8,2
+rio formoso,PE,215.6,2
+joao alfredo,PE,215.49,3
+santo eduardo,RJ,215.0,2
+progresso,RS,215.0,1
+tabapora,MT,214.9,2
+lunardelli,PR,214.89,2
+carnaubal,CE,214.89,2
+maravilha,AL,214.8,2
+batalha,AL,214.79,3
+crisopolis,BA,214.6,4
+guamiranga,PR,214.0,1
+mercedes,PR,213.9,2
+rubim,MG,213.89,3
+queluz,SP,213.74,2
+monte alegre de minas,MG,213.68,4
+alto rio doce,MG,213.42,4
+ilha comprida,SP,212.98,3
+irineopolis,SC,212.82,4
+rodeio bonito,RS,212.8,2
+timbe do sul,SC,212.79,3
+telha,SE,212.4,1
+alto jequitiba,MG,211.89,3
+doutor camargo,PR,211.05,1
+alvarenga,MG,211.0,2
+barras,PI,210.88,3
+meleiro,SC,210.8,3
+vale real,RS,210.53,3
+guapiara,SP,210.29,3
+cristiano otoni,MG,210.2,2
+tobias barreto,SE,209.99,2
+santo expedito do sul,RS,209.99,1
+terra nova,PE,209.99,1
+gramado dos loureiros,RS,209.99,1
+coroados,SP,209.9,2
+acegua,RS,209.9,2
+morro redondo,RS,209.9,1
+lupionopolis,PR,209.75,2
+ribeira,SP,209.28,3
+imbe de minas,MG,209.0,2
+santo antonio do sudoeste,PR,208.95,3
+leandro ferreira,MG,208.9,2
+passos maia,SC,208.9,2
+manoel viana,RS,208.79,3
+cristais,MG,208.7,3
+santa ernestina,SP,208.16,2
+nova laranjeiras,PR,208.1,1
+igreja nova,AL,208.0,2
+milha,CE,207.9,2
+sao jose do barreiro,SP,207.59,3
+cabralia paulista,SP,207.29,4
+descoberto,MG,206.98,3
+riachao das neves,BA,206.89,2
+santo antonio da alegria,SP,206.79,3
+sao sebastiao do maranhao,MG,206.79,3
+frei lagonegro,MG,206.74,1
+nova vicosa,BA,205.99,1
+sao vicente ferrer,MA,205.9,1
+itapitanga,BA,205.7,3
+agua branca,PB,204.99,2
+catarina,CE,204.98,3
+carlinda,MT,204.9,2
+tacaratu,PE,204.89,2
+agronomica,SC,204.87,2
+prados,MG,204.79,3
+jequitai,MG,204.18,2
+riacho das almas,PE,203.9,2
+sao jose do goiabal,MG,202.9,2
+bodoco,PE,202.8,2
+colorado,RS,202.7,3
+boa vista da aparecida,PR,202.47,4
+flora rica,SP,200.0,1
+guimaraes,MA,199.99,1
+pinheiros,SP,199.99,1
+sao vicente ferrer,PE,199.98,2
+cumari,GO,199.9,2
+nova cantu,PR,199.9,2
+uirauna,PB,199.9,1
+dourado,CE,199.9,1
+bom jesus do sul,PR,199.9,1
+bom jesus do amparo,MG,199.89,1
+herval,RS,199.89,2
+colorado do oeste,RO,199.88,3
+guaraciaba,MG,199.8,2
+mirante do paranapanema,SP,199.7,3
+curral de cima,PB,199.0,1
+santa rosa do sul,SC,199.0,1
+alto alegre do pindare,MA,199.0,1
+palminopolis,GO,199.0,1
+andrequice,MG,199.0,1
+calcado,PE,199.0,1
+fontoura xavier,RS,199.0,1
+lagoa de velhos,RN,199.0,1
+galia,SP,199.0,1
+morro da garca,MG,199.0,1
+capitao andrade,MG,199.0,1
+macuco de minas,MG,199.0,1
+capetinga,MG,198.9,2
+sao sebastiao da boa vista,PA,198.9,2
+fagundes,PB,198.9,1
+tunas do parana,PR,198.9,2
+francisco dantas,RN,198.9,1
+zacarias,SP,198.8,2
+irapua,SP,198.8,4
+mira estrela,SP,198.0,1
+arraias,TO,197.9,2
+ibiapina,CE,197.89,3
+itapora,MS,197.88,3
+aquidauana,MS,197.7,4
+novo barreiro,RS,197.59,2
+general maynard,SE,197.5,1
+santana,BA,197.3,3
+serra dourada,BA,197.14,2
+flor da serra do sul,PR,197.1,2
+diorama,GO,196.87,2
+salto do jacui,RS,196.36,4
+conceicao do formoso,MG,195.99,1
+urucuca,BA,195.9,2
+cachoeira do brumado,MG,195.9,1
+piumhi,MG,195.73,3
+padre bernardo,GO,195.7,4
+itaipulandia,PR,195.17,6
+manoel urbano,AC,194.99,1
+campo alegre do fidalgo,PI,194.98,1
+turvo,SC,194.89,4
+ipora,PR,194.89,2
+couto de magalhaes,TO,194.89,2
+presidente dutra,BA,194.8,3
+sao joao do ivai,PR,193.9,2
+lourdes,SP,193.7,2
+mata roma,MA,193.0,2
+floreal,SP,192.89,2
+jaguaquara,BA,192.4,2
+ajuricaba,RS,191.9,2
+planaltino,BA,191.8,1
+diogo de vasconcelos,MG,191.62,2
+divisa alegre,MG,190.99,2
+santana do deserto,MG,190.9,1
+moema,MG,189.99,1
+botelho,SP,189.98,1
+ressaquinha,MG,189.9,1
+vicentina,MS,189.9,1
+berizal,MG,189.9,1
+sao bernardino,SC,189.9,1
+iraucuba,CE,189.89,2
+tururu,CE,189.0,1
+curvelandia,MT,189.0,1
+santo antonio do planalto,RS,189.0,1
+curralinho,PA,188.76,1
+ipixuna do para,PA,188.0,2
+erere,CE,188.0,1
+wenceslau braz,PR,188.0,2
+bugre,MG,187.9,1
+paraiso do norte,PR,187.82,3
+ararica,RS,187.0,2
+montezuma,MG,186.89,2
+alvares florence,SP,185.76,2
+jaciara,MT,185.7,3
+abare,BA,185.19,2
+goianorte,TO,184.99,2
+herculandia,SP,184.89,3
+santa rita do ibitipoca,MG,184.7,2
+cerro grande do sul,RS,184.0,2
+teofilandia,BA,183.88,3
+areia branca,RN,183.6,3
+tuparendi,RS,183.49,2
+trombudo central,SC,182.89,4
+cerro azul,PR,182.18,4
+botuvera,SC,181.9,2
+ilopolis,RS,181.8,3
+hidrolina,GO,181.47,2
+santa rosa de lima,SC,180.15,3
+sao jose dos cordeiros,PB,180.0,1
+arantina,MG,180.0,1
+avai,SP,179.99,1
+santa barbara do para,PA,179.96,1
+aparecida de monte alto,SP,179.9,1
+porto de pedras,AL,179.9,1
+saubara,BA,179.9,1
+japoata,SE,179.9,1
+campinacu,GO,179.9,1
+alambari,SP,179.88,3
+redencao do gurgueia,PI,179.8,1
+xique-xique,BA,179.79,3
+engenheiro balduino,SP,179.6,1
+senador amaral,MG,179.46,2
+palmital,PR,179.0,1
+pocao de pedras,MA,179.0,1
+salvador do sul,RS,179.0,1
+mato leitao,RS,179.0,2
+fortim,CE,179.0,1
+cipo,BA,179.0,1
+umbauba,SE,178.9,3
+fruta de leite,MG,178.9,2
+campo alegre,SC,178.9,2
+sambaiba,MA,178.9,1
+oeiras do para,PA,178.65,2
+santa rita d'oeste,SP,178.57,3
+paranacity,PR,178.15,3
+sao goncalo do abaete,MG,177.99,2
+roca sales,RS,177.9,2
+conceicao do jacuipe,BA,177.89,3
+martins,RN,177.89,2
+sarandi,RS,177.39,5
+tavares,RS,176.99,1
+guape,MG,176.96,1
+corumbaiba,GO,176.8,4
+rio das antas,SC,176.8,2
+xavantina,SC,176.02,2
+bom jesus das selvas,MA,175.9,2
+nonoai,RS,175.9,2
+campo alegre de goias,GO,175.89,2
+tiros,MG,175.89,3
+chacara,MG,175.7,2
+sao jose da vitoria,BA,175.65,2
+frecheirinha,CE,175.09,2
+palmeiras,BA,174.95,2
+nortelandia,MT,174.9,1
+celina,ES,174.9,2
+carutapera,MA,174.9,2
+canudos,BA,174.9,1
+quilombo,SC,174.78,4
+sao joao da mata,MG,174.78,2
+belo campo,BA,174.47,3
+poco de pedra,RN,174.0,1
+macambira,SE,173.9,1
+ipe,RS,173.9,2
+sao luis do curu,CE,173.9,2
+estrela do norte,SP,173.79,3
+sao miguel do anta,MG,173.59,1
+pocrane,MG,172.99,3
+bueno brandao,MG,172.02,4
+irara,BA,171.89,2
+ladainha,MG,171.14,2
+claraval,MG,171.0,1
+santa barbara d oeste,SP,170.92,4
+sao francisco do humaita,MG,170.8,1
+tres arroios,RS,170.27,3
+lagoa d'anta,RN,170.0,1
+isaias coelho,PI,170.0,1
+pequi,MG,169.99,1
+serra bonita,MG,169.99,1
+apuarema,BA,169.99,1
+desembargador otoni,MG,169.99,1
+ibitioca,RJ,169.99,1
+ipueira,RN,169.99,1
+deputado irapuan pinheiro,CE,169.98,2
+miraguai,RS,169.97,1
+sao miguel das matas,BA,169.94,1
+pindobacu,BA,169.9,3
+america dourada,BA,169.9,1
+arroio trinta,SC,169.9,1
+correntes,PE,169.9,1
+ipuiuna,MG,169.9,1
+felicio dos santos,MG,169.9,1
+carmo do rio verde,GO,169.89,2
+sao roque de minas,MG,169.89,2
+emilianopolis,SP,169.85,2
+urucurituba,AM,169.8,2
+cachoeira da prata,MG,169.8,2
+azurita,MG,169.7,3
+rinopolis,SP,169.69,3
+sao goncalo do rio das pedras,MG,169.0,1
+itaparica,BA,168.49,1
+sao joao de iracema,SP,168.38,3
+nova olimpia,MT,168.0,2
+brotas de macaubas,BA,168.0,1
+alto alegre,PR,167.99,2
+abatia,PR,167.89,3
+david canabarro,RS,167.88,2
+teolandia,BA,167.8,4
+cotriguacu,MT,167.66,2
+aramari,BA,167.4,2
+parnarama,MA,166.99,1
+sao joao do paraiso,RJ,166.99,1
+purilandia,RJ,166.99,1
+piacu,ES,166.99,1
+luz,MG,166.9,2
+ventania,PR,166.77,3
+porangaba,SP,166.39,2
+sao domingos,BA,165.31,3
+acaiaca,MG,164.9,2
+cha grande,PE,164.89,1
+alvorada do norte,GO,164.88,3
+ataleia,MG,164.8,2
+ibiassuce,BA,164.5,2
+lindoeste,PR,164.3,2
+saboeiro,CE,163.99,1
+agua santa,RS,163.9,2
+boquim,SE,163.9,1
+matrincha,GO,163.29,2
+euclides da cunha paulista,SP,163.25,2
+poloni,SP,163.12,3
+jaguaruna,SC,162.9,2
+alianca do tocantins,TO,162.79,2
+macambara,RS,162.74,2
+ibertioga,MG,162.5,1
+nazareno,MG,161.8,2
+luzilandia,PI,161.8,3
+panelas,PE,161.79,2
+rio preto,MG,161.68,4
+lagoa da canoa,AL,160.99,1
+ichu,BA,160.98,2
+jaboti,PR,160.7,2
+santo antonio do canaa,ES,160.0,1
+santa filomena,PE,160.0,1
+santa amelia,PR,160.0,1
+baixa grande do ribeiro,PI,159.99,1
+romelandia,SC,159.99,1
+pedras de fogo,PB,159.99,2
+itaporanga d'ajuda,SE,159.99,1
+jose da penha,RN,159.99,1
+itapage,CE,159.99,1
+sao joao da parauna,GO,159.99,1
+pancas,ES,159.94,1
+marilandia do sul,PR,159.9,1
+governador dix-sept rosado,RN,159.9,1
+mimoso de goias,GO,159.9,1
+santa fe de minas,MG,159.9,1
+triunfo,PB,159.9,1
+areial,PB,159.9,1
+rio verde,PR,159.9,1
+monteiropolis,AL,159.9,1
+alexandria,RN,159.8,2
+muritiba,BA,159.49,1
+jesupolis,GO,159.33,2
+capivari do sul,RS,159.0,1
+santo antonio dos campos,MG,159.0,1
+cavalcante,GO,158.99,2
+roncador,PR,158.98,2
+espigao alto do iguacu,PR,158.9,2
+marinopolis,SP,158.88,2
+sao patricio,GO,158.7,1
+pranchita,PR,158.67,1
+abaira,BA,157.99,2
+sao sebastiao da serra,SP,157.9,1
+jaguari,RS,157.89,3
+aguia branca,ES,157.89,2
+itabaianinha,SE,157.8,2
+fazenda vilanova,RS,157.8,2
+capao da porteira,RS,157.0,2
+nova canaa,BA,156.9,2
+aragarcas,GO,156.88,3
+guamare,RN,156.8,2
+nova campina,SP,156.5,2
+lagoao,RS,156.45,1
+bossoroca,RS,155.99,1
+campo grande do piaui,PI,155.99,1
+barra de sao miguel,AL,155.98,2
+sao vendelino,RS,155.98,2
+massape,CE,155.9,2
+campina das missoes,RS,155.8,2
+salgado filho,PR,155.7,3
+conceicao do caninde,PI,155.44,1
+novo repartimento,PA,155.0,2
+picarras,SC,155.0,1
+mariopolis,PR,154.99,1
+itabatan,BA,154.98,2
+sapopema,PR,154.98,2
+iramaia,BA,154.9,2
+aguas de santa barbara,SP,154.9,3
+mirinzal,MA,154.87,3
+sao joao do manhuacu,MG,154.8,2
+porto firme,MG,153.61,2
+nova crixas,GO,153.4,1
+maragogipe,BA,152.8,2
+capim branco,MG,152.78,2
+sao lourenco do piaui,PI,152.49,1
+groairas,CE,152.15,1
+novo oriente do piaui,PI,152.01,2
+agua fria de goias,GO,152.0,1
+buriti,MA,151.79,1
+eneas marques,PR,151.68,4
+carlos chagas,MG,150.79,3
+chaval,CE,150.0,1
+aroeiras,PB,149.99,1
+tecainda,SP,149.99,1
+pio ix,PI,149.99,1
+urucuia,MG,149.99,1
+jatoba,MA,149.99,1
+alegrete do piaui,PI,149.9,1
+guassusse,CE,149.9,1
+rio espera,MG,149.9,1
+cabixi,RO,149.9,1
+presidente janio quadros,BA,149.9,1
+mendonca,MG,149.9,1
+jaua,BA,149.9,1
+ivora,RS,149.9,1
+cocalzinho de goias,GO,149.9,1
+sao jose do serido,RN,149.9,1
+sao jose do piaui,PI,149.9,1
+guiricema,MG,149.9,1
+santa cecilia,PB,149.9,1
+sitio novo,RN,149.9,1
+remigio,PB,149.9,1
+perpetuo socorro,MG,149.89,2
+luiziana,PR,149.85,2
+pacoti,CE,149.8,2
+nova canaa do norte,MT,149.78,3
+belmonte,SC,149.7,1
+heliopolis,BA,149.0,1
+santo antonio do leste,MT,149.0,1
+ribeiro junqueira,MG,149.0,1
+simao pereira,MG,149.0,1
+dom joaquim,MG,149.0,1
+ibarama,RS,149.0,1
+piracema,MG,149.0,1
+bom jesus do querendo,RJ,149.0,1
+quatro pontes,PR,149.0,1
+urucania,MG,149.0,1
+sao domingos,SC,148.99,2
+cachoeira dourada,GO,148.9,2
+mae do rio,PA,148.89,2
+ielmo marinho,RN,148.7,2
+sao jose do divino,MG,148.0,1
+witmarsum,SC,147.79,3
+taquarana,AL,146.99,1
+paiva,MG,146.2,2
+caiua,SP,146.0,2
+ritapolis,MG,145.69,3
+esmeralda,RS,145.0,1
+vespasiano correa,RS,144.99,1
+candeal,BA,144.99,1
+macaparana,PE,144.88,2
+putinga,RS,144.8,2
+aruana,GO,144.8,2
+carire,CE,144.79,3
+patu,RN,144.49,3
+ubata,BA,144.0,1
+barra,BA,143.9,2
+mara rosa,GO,143.9,2
+turvolandia,MG,143.9,2
+nova fatima,BA,143.8,1
+ourizona,PR,143.8,1
+santa barbara do sul,RS,143.8,2
+santa maria da serra,SP,143.64,2
+capoeiras,PE,143.0,1
+lucianopolis,SP,142.9,2
+itirapina,SP,142.9,2
+victor graeff,RS,142.8,2
+chopinzinho,PR,142.38,4
+parambu,CE,141.86,4
+vila langaro,RS,140.64,3
+visconde de maua,RJ,140.59,3
+salto do ceu,MT,140.39,2
+varzea alegre,CE,140.29,2
+paial,SC,139.99,1
+jussari,BA,139.99,2
+alagoa grande,PB,139.99,1
+brejo bonito,MG,139.9,1
+sao joao da urtiga,RS,139.9,1
+alto alegre,RS,139.9,1
+central de santa helena,MG,139.9,1
+cravolandia,BA,139.9,1
+ilha grande,PI,139.9,1
+tabocas do brejo velho,BA,139.88,3
+tres irmaos,RJ,139.8,1
+sao clemente,PR,139.8,1
+sao geraldo da piedade,MG,139.8,1
+adhemar de barros,PR,139.0,1
+caldas brandao,PB,139.0,1
+jardim olinda,PR,139.0,1
+angustura,MG,139.0,1
+simolandia,GO,138.99,2
+dario meira,BA,138.99,2
+oliveira dos brejinhos,BA,138.9,2
+machacalis,MG,138.89,2
+itaguaje,PR,138.8,2
+satubinha,MA,138.79,2
+senador firmino,MG,138.57,2
+clevelandia,PR,138.5,3
+pastos bons,MA,137.9,2
+iguatu,PR,137.9,1
+itapicuru,BA,137.33,2
+gaucha do norte,MT,136.48,2
+pirajuba,MG,135.9,1
+cubati,PB,135.89,2
+bataipora,MS,135.3,1
+centenario,TO,134.99,1
+quixada,PE,134.9,1
+estrela d oeste,SP,134.9,1
+ibema,PR,134.9,1
+matutina,MG,134.89,2
+pindai,BA,134.8,2
+carrancas,MG,134.79,3
+apore,GO,134.64,1
+jacigua,ES,134.49,2
+rio branco,MT,133.88,4
+lupercio,SP,133.79,3
+urutai,GO,133.48,3
+itiquira,MT,133.0,1
+agua branca,PI,132.9,2
+madalena,CE,132.9,1
+silvianopolis,MG,132.5,3
+caibi,SC,132.05,3
+nossa senhora do remedio,SP,131.9,2
+iuna,ES,131.0,2
+correntina,BA,130.99,2
+seberi,RS,130.39,2
+ipira,SC,130.2,2
+inga,PB,130.0,1
+lajeado grande,SC,130.0,1
+chiapetta,RS,129.99,1
+cruzeiro do iguacu,PR,129.99,1
+maua da serra,PR,129.99,2
+carnauba dos dantas,RN,129.99,1
+ibiracatu,MG,129.99,1
+floresta do araguaia,PA,129.99,1
+agua preta,PE,129.99,1
+sao luiz do norte,GO,129.99,1
+luziapolis,AL,129.99,1
+orizania,MG,129.95,1
+grupiara,MG,129.94,1
+itatiaiucu,MG,129.9,2
+riacho da cruz,RN,129.9,1
+flores,CE,129.9,1
+amapora,PR,129.9,2
+araruna,PB,129.9,1
+riacho de santo antonio,PB,129.9,1
+itagimirim,BA,129.9,1
+murucupi,PA,129.9,1
+porto estrela,MT,129.9,1
+mairipotaba,GO,129.77,1
+nova floresta,PB,129.6,1
+araguacu,TO,129.5,1
+jeriquara,SP,129.0,1
+mundo novo,BA,129.0,1
+boa esperanca,PR,129.0,1
+corrego fundo,MG,129.0,1
+alfredo marcondes,SP,129.0,1
+carmolandia,TO,129.0,1
+comercinho,MG,129.0,1
+paula candido,MG,129.0,1
+grandes rios,PR,128.99,2
+castanheira,MT,128.98,3
+santa cruz do prata,MG,128.9,2
+brejetuba,ES,128.89,1
+poxoreu,MT,128.57,2
+sao domingos do maranhao,MA,127.89,2
+angelina,SC,126.99,1
+corumba de goias,GO,126.99,2
+farol,PR,126.99,1
+jatauba,PE,126.89,2
+barao de cotegipe,RS,126.89,2
+itagiba,BA,126.89,2
+jaborandi,SP,126.29,3
+sao fernando,RN,125.9,1
+piau,MG,125.89,2
+abdon batista,SC,125.4,1
+natividade da serra,SP,125.0,1
+tapurah,MT,125.0,1
+mariano moro,RS,125.0,1
+charrua,RS,125.0,1
+sao desiderio,BA,125.0,1
+inhauma,MG,124.98,2
+brejoes,BA,124.9,1
+imbau,PR,124.2,2
+coracao de jesus,MG,123.9,3
+barreira,CE,123.89,1
+juscimeira,MT,123.8,2
+ibirapua,BA,122.99,1
+santana,PR,122.99,1
+maquine,RS,122.99,1
+felipe guerra,RN,122.99,1
+sao nicolau,RS,122.99,1
+aurilandia,GO,122.99,1
+caetes,PE,122.9,1
+protasio alves,RS,122.9,2
+mascote,BA,122.4,2
+doutor ulysses,PR,122.0,1
+coronel martins,SC,121.3,2
+divinopolis do tocantins,TO,120.99,1
+araguapaz,GO,120.9,2
+mirante da serra,RO,120.9,1
+sao francisco,SP,120.87,2
+biritinga,BA,120.0,1
+lajeado,TO,120.0,1
+passa tempo,MG,120.0,1
+pitanga de estrada,PB,120.0,1
+tacuru,MS,120.0,1
+miranda do norte,MA,120.0,1
+severiano melo,RN,120.0,1
+morro do ferro,MG,120.0,1
+sao joao das missoes,MG,119.99,2
+erebango,RS,119.99,1
+santa cruz do piaui,PI,119.99,1
+nova araca,RS,119.99,1
+ipiranga de goias,GO,119.9,1
+serranopolis de minas,MG,119.9,1
+bora,SP,119.9,1
+santo antonio de goias,GO,119.9,1
+cachoeira dourada,MG,119.9,1
+vila nelita,ES,119.9,2
+wagner,BA,119.9,1
+bela vista de minas,MG,119.9,1
+sardoa,MG,119.9,1
+mucambo,CE,119.9,1
+presidente medici,RO,119.89,2
+morro grande,SC,119.8,1
+areia,PB,119.8,2
+aracitaba,MG,119.8,2
+antunes,MG,119.8,1
+silveira martins,RS,119.8,1
+sacra familia do tingua,RJ,119.8,1
+jose boiteux,SC,119.7,1
+ferros,MG,119.6,2
+bonito de santa fe,PB,119.6,1
+mojui dos campos,PA,119.59,2
+central,BA,119.5,1
+maiquinique,BA,119.4,1
+saude,BA,119.4,2
+andrelandia,MG,119.36,3
+senador modestino goncalves,MG,119.32,2
+andre da rocha,RS,119.0,1
+meridiano,SP,119.0,1
+araguana,MA,119.0,1
+campo alegre de minas,MG,119.0,1
+sede alvorada,PR,119.0,1
+quinta do sol,PR,118.99,3
+sao cristovao do sul,SC,118.99,1
+sao jose da boa vista,PR,118.99,1
+alpestre,RS,118.9,1
+treviso,SC,118.9,1
+ibitiara,BA,118.9,1
+guajara-mirim,RO,118.89,3
+dionisio,MG,118.8,2
+barro preto,BA,118.8,1
+jardim alegre,PR,118.38,2
+cerro negro,SC,118.0,1
+cerejeiras,RO,117.99,1
+marcelino vieira,RN,117.7,1
+durande,MG,117.49,2
+sao pedro do iguacu,PR,117.3,1
+sao geraldo do baguari,MG,117.3,1
+venda branca,SP,117.3,1
+rancho alegre d'oeste,PR,117.3,1
+iretama,PR,117.3,1
+salto da divisa,MG,116.98,2
+anastacio,MS,116.9,2
+senhora de oliveira,MG,116.9,2
+chale,MG,116.4,2
+careacu,MG,116.13,2
+quixelo,CE,115.99,2
+coxilha,RS,115.9,2
+duere,TO,115.9,1
+jaci,SP,115.89,2
+presidente kubitschek,MG,115.43,2
+lagoinha do piaui,PI,115.0,1
+luis correia,PI,115.0,1
+aparecida do rio negro,TO,115.0,1
+cantagalo,PR,114.99,2
+sao domingos,PE,114.94,1
+cruzeiro da fortaleza,MG,114.9,2
+pugmil,TO,114.9,1
+bocaina,PI,114.9,1
+domiciano ribeiro,GO,114.89,2
+conceicao,PB,114.49,2
+luiz alves,SC,114.0,2
+jacinto,MG,113.99,2
+chapadinha,MA,113.88,3
+lagoa nova,RN,113.8,2
+nova santa barbara,PR,113.0,1
+alagoa nova,PB,113.0,1
+sao joao batista,MA,113.0,1
+pedro gomes,MS,113.0,1
+aragoiania,GO,112.9,1
+estrela do indaia,MG,112.8,2
+presidente alves,SP,112.61,2
+neves paulista,SP,112.58,3
+turvo,PR,112.1,2
+cotipora,RS,112.0,1
+mariapolis,SP,111.9,2
+itagi,BA,111.89,2
+extremoz,RN,111.79,2
+manfrinopolis,PR,111.0,1
+lindolfo collor,RS,110.9,1
+ipiranga,PR,110.89,3
+wenceslau guimaraes,BA,110.0,1
+independencia,CE,110.0,1
+lagoa,PB,110.0,1
+caldeirao grande do piaui,PI,110.0,1
+umburatiba,MG,109.99,1
+missi,CE,109.9,1
+caseiros,RS,109.9,1
+ipiranga do sul,RS,109.9,1
+jandaira,RN,109.9,1
+arara,PB,109.9,1
+sao jose da tapera,AL,109.9,1
+nova canaa paulista,SP,109.89,2
+sao francisco de assis,RS,109.89,2
+ocara,CE,109.89,2
+aiuaba,CE,109.7,1
+herveiras,RS,109.0,1
+arenopolis,GO,108.9,1
+japaraiba,MG,108.9,1
+francisco dumont,MG,108.89,2
+parana,TO,108.88,2
+tapirai,SP,108.65,2
+ajapi,SP,108.0,1
+itabirinha,MG,108.0,1
+picui,PB,107.99,2
+canarana,BA,107.9,1
+capitao,RS,107.8,1
+igaracu do tiete,SP,107.69,4
+liberdade,MG,107.23,3
+mombuca,SP,107.14,3
+augustinopolis,TO,107.0,1
+santa maria do para,PA,106.99,2
+agua comprida,MG,106.9,2
+anhembi,SP,106.9,1
+peritiba,SC,106.9,2
+varjao de minas,MG,105.8,2
+itaueira,PI,105.28,2
+colmeia,TO,105.0,2
+quatituba,MG,105.0,1
+pombos,PE,105.0,1
+presidente medici,MA,105.0,1
+dois riachos,AL,104.99,1
+conrado,RJ,104.9,1
+sao domingos das dores,MG,104.9,2
+santo hipolito,MG,104.4,1
+divino de sao lourenco,ES,103.97,1
+tamarana,PR,103.9,2
+crisolita,MG,103.9,2
+lindoia do sul,SC,103.9,1
+california,PR,103.8,2
+pocoes de paineiras,MG,102.89,1
+pimenteiras,PI,102.5,2
+planura,MG,102.16,2
+governador lindenberg,ES,101.97,2
+guzolandia,SP,101.62,1
+braco do rio,ES,101.49,2
+sao bonifacio,SC,101.0,1
+itubera,BA,100.73,3
+oros,CE,100.65,2
+dom basilio,BA,100.28,3
+fortaleza dos valos,RS,100.0,1
+rubineia,SP,100.0,1
+brasopolis,MG,99.99,1
+fragosos,SC,99.99,1
+inconfidentes,MG,99.99,2
+tibau do sul,RN,99.99,1
+santa clara d'oeste,SP,99.99,1
+campo alegre de lourdes,BA,99.99,1
+barrocas,BA,99.99,1
+santa maria do herval,RS,99.99,1
+claro dos pocoes,MG,99.99,1
+bonito de minas,MG,99.99,1
+brejo,MA,99.99,1
+silvano,MG,99.99,1
+nazare da mata,PE,99.99,1
+japaratuba,SE,99.99,1
+banzae,BA,99.99,1
+mussurepe,RJ,99.99,1
+umburanas,BA,99.9,1
+douradina,PR,99.9,1
+orobo,PE,99.9,1
+coronel pacheco,MG,99.9,1
+olhos d'agua,MG,99.9,1
+sao pedro do butia,RS,99.9,1
+caridade,CE,99.9,1
+nova timboteua,PA,99.9,1
+felisburgo,MG,99.9,1
+frei rogerio,SC,99.9,1
+novais,SP,99.9,1
+sao vitor,MG,99.9,1
+nova ubirata,MT,99.9,1
+cajueiro,AL,99.9,1
+rodolfo fernandes,RN,99.89,2
+zortea,SC,99.8,2
+getulina,SP,99.8,2
+alexandrita,MG,99.8,1
+vila flor,RN,99.73,1
+pilar,AL,99.7,3
+pindorama do tocantins,TO,99.66,2
+conceicao do almeida,BA,99.0,1
+sobradinho,DF,99.0,1
+paulistania,SP,99.0,1
+barra do rio azul,RS,99.0,1
+palhano,CE,99.0,1
+formosa da serra negra,MA,99.0,1
+anguera,BA,99.0,1
+varzea,PB,98.99,1
+sao felix do araguaia,MT,98.8,1
+sao pedro do sul,RS,98.7,1
+gentio do ouro,BA,98.7,1
+barracao,RS,98.49,2
+lago verde,MA,98.0,1
+vermelho,MG,98.0,1
+monte alegre,PA,98.0,1
+governador mangabeira,BA,98.0,1
+jaguaribara,CE,98.0,1
+aramina,SP,97.9,1
+barro alto,GO,97.9,1
+sao jose do ribeirao,RJ,97.9,1
+sitio do quinto,BA,97.89,2
+eugenio de castro,RS,97.0,1
+santo antonio do leverger,MT,97.0,1
+ananas,TO,96.8,1
+ingai,MG,96.0,1
+sao bras do suacui,MG,95.99,2
+benedito leite,MA,95.9,1
+aguas claras,RS,95.8,1
+planaltina de goias,GO,95.6,2
+sao benedito do rio preto,MA,95.0,1
+ferreiros,PE,95.0,1
+meruoca,CE,95.0,2
+ipiranga do norte,MT,95.0,1
+goiandira,GO,94.9,1
+gaviao peixoto,SP,94.89,2
+patrocinio do muriae,MG,94.8,2
+caracol,MS,94.0,1
+portelandia,GO,93.99,2
+entre rios do oeste,PR,93.89,3
+boa vista do gurupi,MA,93.89,2
+sao carlos do ivai,PR,93.0,1
+coronel macedo,SP,92.9,2
+pau d'arco,AL,92.9,1
+vila pereira,MG,92.8,1
+mandirituba,PR,92.65,2
+aratiba,RS,92.5,1
+epitaciolandia,AC,92.34,1
+barro alto,BA,91.99,2
+monte castelo,SP,91.5,1
+planalto,BA,91.0,1
+quevedos,RS,90.9,2
+manaira,PB,90.0,1
+senador la rocque,MA,90.0,1
+novo itacolomi,PR,90.0,1
+brejo dos santos,PB,89.99,1
+cajapio,MA,89.99,1
+peixe,TO,89.99,1
+tapinas,SP,89.99,1
+pontes gestal,SP,89.99,1
+vitorinos,MG,89.99,1
+palmopolis,MG,89.99,1
+britania,GO,89.99,1
+conquista d'oeste,MT,89.99,1
+marilena,PR,89.99,1
+paranapoema,PR,89.99,1
+sao jorge do patrocinio,PR,89.9,2
+retirolandia,BA,89.9,1
+ilicinea,MG,89.9,1
+vargem grande do soturno,ES,89.9,1
+redencao da serra,SP,89.9,1
+coite do noia,AL,89.9,1
+contenda,PR,89.9,1
+atilio vivacqua,ES,89.9,1
+jaupaci,GO,89.9,1
+bom sucesso,PR,89.9,1
+machados,PE,89.9,1
+rancho alegre,PR,89.9,1
+santa rita,MA,89.9,1
+santa leopoldina,ES,89.9,1
+cujubim,RO,89.9,1
+bonfim,RR,89.9,1
+bandeirantes,MS,89.9,1
+estrela do sul,MG,89.9,1
+itabi,SE,89.9,1
+riversul,SP,89.9,1
+guapirama,PR,89.9,1
+coronel joao pessoa,RN,89.9,1
+penedo,RJ,89.9,1
+braunas,MG,89.9,1
+lamim,MG,89.9,1
+coronel sapucaia,MS,89.9,1
+sao jorge d'oeste,PR,89.9,1
+pedras altas,RS,89.9,1
+macaubal,SP,89.8,1
+mogi-mirim,SP,89.8,2
+capela nova,MG,89.77,1
+fonseca,MG,89.65,1
+atalaia,AL,89.58,1
+aguas mornas,SC,89.15,1
+arapua,MG,89.0,1
+coronel domingos soares,PR,89.0,1
+taparuba,MG,89.0,1
+aquidaba,SE,89.0,1
+lucena,PB,89.0,1
+vanini,RS,89.0,1
+sao francisco,PB,89.0,1
+general camara,RS,89.0,1
+antonio pereira,MG,88.99,2
+sao pedro do turvo,SP,88.9,2
+alto alegre do maranhao,MA,88.9,1
+guara,DF,88.79,2
+goiana,MG,88.7,3
+xexeu,PE,87.5,1
+carmopolis,SE,87.31,2
+uniao de minas,MG,87.09,3
+coqueiro baixo,RS,86.99,2
+pato bragado,PR,86.7,2
+sao mamede,PB,86.0,1
+varzea nova,BA,86.0,1
+moncao,MA,85.99,1
+vitoria do jari,AP,85.95,1
+novo brasil,ES,85.9,1
+bom jesus da penha,MG,85.89,2
+vila nova,PR,85.47,2
+piquerobi,SP,85.0,1
+janduis,RN,84.99,1
+cotegipe,BA,84.99,1
+montadas,PB,84.99,1
+caturama,BA,84.99,2
+vila nova do sul,RS,84.99,1
+lagoa do piaui,PI,84.99,1
+santo antonio das queimadas,PE,84.99,1
+nova esperanca do sudoeste,PR,84.99,1
+entre folhas,MG,84.99,1
+major porto,MG,84.99,1
+perola independente,PR,84.9,1
+serra branca,PB,84.9,1
+santa brigida,BA,84.9,1
+itaguaru,GO,84.89,2
+esperantina,TO,84.44,1
+guarda-mor,MG,83.9,2
+senador salgado filho,RS,83.8,1
+turvania,GO,83.7,2
+ouro verde de goias,GO,82.9,1
+itaguacu,GO,82.89,2
+tres forquilhas,RS,82.8,1
+jussara,GO,82.79,3
+riachinho,MG,82.34,2
+santa salete,SP,81.99,1
+candido rodrigues,SP,81.79,4
+sinimbu,RS,81.78,2
+assare,CE,81.0,1
+barrolandia,TO,80.99,2
+piata,BA,80.98,2
+bias fortes,MG,80.9,2
+ouro verde de minas,MG,80.79,2
+sao joao do paraiso,MA,80.04,1
+perobal,PR,80.0,1
+monte alegre de sergipe,SE,80.0,1
+assuncao,PB,80.0,1
+frutuoso gomes,RN,79.99,1
+coronel freitas,SC,79.99,1
+barao do triunfo,RS,79.99,1
+cha de alegria,PE,79.99,1
+ewbank da camara,MG,79.99,1
+iaras,SP,79.99,1
+nossa senhora de lourdes,SE,79.99,1
+materlandia,MG,79.98,2
+monte belo do sul,RS,79.98,1
+rio dos indios,RS,79.9,1
+filadelfia,BA,79.9,1
+ponto belo,ES,79.9,1
+andarai,BA,79.9,1
+santa luzia do parua,MA,79.9,1
+paraiso,SC,79.9,1
+paraju,ES,79.9,1
+olaria,MG,79.9,1
+dezesseis de novembro,RS,79.9,1
+campo bonito,PR,79.9,1
+campo azul,MG,79.9,1
+novo lino,AL,79.9,1
+ubirajara,SP,79.9,1
+querencia do norte,PR,79.9,1
+vargem grande,MA,79.9,1
+santana da boa vista,RS,79.89,2
+elisio medrado,BA,79.82,2
+sao joaquim do monte,PE,79.0,1
+banabuiu,CE,79.0,1
+rincao,SP,79.0,1
+nantes,SP,79.0,1
+ipiranga,RS,79.0,1
+teresina de goias,GO,79.0,1
+praia norte,TO,79.0,1
+divinopolis de goias,GO,79.0,1
+santa rita da floresta,RJ,79.0,1
+vitoria do mearim,MA,78.9,2
+sao francisco de paula,MG,78.89,2
+vargem,SP,78.8,2
+aracoiaba,PE,78.67,2
+aurora do para,PA,78.0,1
+monte castelo,SC,78.0,1
+almas,TO,78.0,1
+inhuma,PI,78.0,1
+sao jose do inhacora,RS,77.99,1
+santo antonio do aventureiro,MG,77.99,1
+figueiropolis d'oeste,MT,77.98,2
+sapucaia,MG,77.9,1
+cristinapolis,SE,77.9,1
+paripiranga,BA,77.71,2
+alagoa,MG,77.68,1
+juvenilia,MG,77.48,2
+suzanapolis,SP,76.9,1
+augusto pestana,RS,76.88,2
+engenheiro beltrao,PR,76.8,2
+bras pires,MG,76.8,2
+deodapolis,MS,76.8,2
+campo do brito,SE,76.8,1
+antonina do norte,CE,76.8,1
+brasilandia de minas,MG,76.25,1
+aracatu,BA,75.99,1
+ibateguara,AL,75.9,2
+pirapo,PR,75.27,1
+jaraguari,MS,75.0,2
+jerico,PB,75.0,1
+nova guataporanga,SP,75.0,1
+guatapara,SP,75.0,1
+felixlandia,MG,75.0,1
+dom cavati,MG,74.99,1
+cassia dos coqueiros,SP,74.9,1
+frei gaspar,MG,74.9,1
+lagoa dos tres cantos,RS,74.9,1
+nacip raydan,MG,74.9,1
+novo horizonte,SC,74.9,1
+porto acre,AC,74.9,1
+espigao,SP,74.89,2
+adustina,BA,74.8,1
+alto alegre do iguacu,PR,74.7,2
+adrianopolis,PR,73.9,1
+santo antonio do palma,RS,73.89,2
+joselandia,MA,73.35,1
+monte formoso,MG,72.99,2
+pedra do indaia,MG,72.99,1
+itarema,CE,72.9,1
+mato rico,PR,72.9,1
+cacaulandia,RO,72.9,1
+avelino lopes,PI,72.89,2
+arraial d ajuda,BA,72.62,1
+serra azul,SP,72.5,1
+salobro,BA,72.2,1
+matoes,MA,72.0,1
+piripa,BA,71.99,2
+termas de ibira,SP,71.9,1
+taquarucu do sul,RS,70.0,1
+bom retiro,SC,70.0,1
+planalto,SP,69.99,1
+itanhanga,MT,69.99,1
+anaurilandia,MS,69.99,1
+ravena,MG,69.99,1
+cipo-guacu,SP,69.99,1
+juripiranga,PB,69.99,1
+boquira,BA,69.9,1
+laranja da terra,ES,69.9,1
+vila reis,PR,69.9,1
+itutinga,MG,69.9,1
+moeda,MG,69.9,1
+formosa do oeste,PR,69.9,1
+nova padua,RS,69.9,1
+ministro andreazza,RO,69.9,1
+florida,PR,69.9,1
+glaura,MG,69.9,1
+piratini,RS,69.9,1
+morro do pilar,MG,69.9,1
+macuco,RJ,69.9,1
+sao francisco do gloria,MG,69.9,1
+onda verde,SP,69.81,1
+anhandui,MS,69.0,1
+cascalho rico,MG,69.0,1
+igarape-acu,PA,69.0,1
+lagoa de sao francisco,PI,68.99,1
+guarani das missoes,RS,68.66,2
+ilha dos valadares,PR,67.99,1
+valao do barro,RJ,67.1,1
+conselheiro mairinck,PR,67.0,1
+buritizal,SP,66.99,2
+rio doce,MG,66.0,1
+angicos,RN,65.99,1
+santo inacio,PR,65.9,1
+bertopolis,MG,65.9,1
+capitao eneas,MG,65.6,1
+serra dos dourados,PR,65.0,1
+goncalves dias,MA,65.0,1
+ribeiropolis,SE,65.0,1
+paranapua,SP,64.99,2
+alianca,PE,64.99,1
+teodoro sampaio,BA,64.9,1
+itaquitinga,PE,64.89,2
+matriz de camaragibe,AL,64.0,1
+sao jorge,RS,63.99,1
+passa tres,RJ,63.85,2
+guairaca,PR,63.8,1
+anage,BA,63.8,1
+agua branca,AL,63.8,1
+cristopolis,BA,63.41,2
+garruchos,RS,62.9,1
+terenos,MS,62.89,1
+pedro velho,RN,61.99,1
+tapera,RS,61.8,1
+ibipeba,BA,61.7,1
+muquem do sao francisco,BA,61.32,2
+pontalinda,SP,60.8,2
+taiacu,SP,60.5,1
+pavao,MG,60.0,1
+guarapua,SP,60.0,1
+novo machado,RS,59.99,1
+jandaira,BA,59.99,1
+camacho,MG,59.99,1
+morada nova,PA,59.99,1
+sao miguel do cambui,PR,59.9,1
+rainha do mar,RS,59.9,1
+brasilandia,MS,59.9,1
+itacurussa,RJ,59.9,1
+santa rita do itueto,MG,59.9,1
+mocajuba,PA,59.9,1
+sarutaia,SP,59.9,1
+oleo,SP,59.9,1
+palmares paulista,SP,59.9,1
+padre paraiso,MG,59.9,1
+lagoa dos patos,MG,59.9,1
+fatima,TO,59.9,1
+cerrito,RS,59.9,1
+messias targino,RN,59.9,1
+mesquita,MG,59.9,1
+sao domingos,MG,59.9,1
+pinhotiba,MG,59.9,1
+pedranopolis,SP,59.9,1
+buriti do tocantins,TO,59.9,1
+praia grande,ES,59.9,1
+porto lucena,RS,59.89,1
+salmourao,SP,59.88,2
+sao mateus de minas,MG,59.88,1
+campo florido,MG,59.8,1
+brasileia,AC,59.7,1
+jacuizinho,RS,59.54,1
+galvao,SC,59.5,1
+novo mundo,MT,59.15,1
+lamarao,BA,59.0,1
+queixada,MG,59.0,1
+rio rufino,SC,59.0,1
+lages,CE,59.0,1
+jamaica,SP,59.0,1
+uruburetama,CE,58.99,1
+cairu,BA,58.99,1
+anhumas,SP,58.99,1
+nova america da colina,PR,58.99,1
+paineiras,MG,58.99,1
+hidrolandia,GO,58.99,1
+pilar,PB,58.99,1
+croata,CE,58.99,1
+palmeirinha,PR,58.92,2
+castro alves,BA,58.9,2
+porto amazonas,PR,58.79,2
+sonora,MS,57.98,2
+itacoatiara,AM,57.98,1
+matelandia,PR,57.98,2
+bacaxa,RJ,57.9,1
+barra do jacare,PR,57.9,1
+dores de guanhaes,MG,57.9,1
+caem,BA,57.9,1
+rubelita,MG,57.89,1
+varzea do poco,BA,56.99,1
+condeuba,BA,56.99,1
+itaara,RS,56.99,1
+piao,RJ,56.99,1
+santa cecilia do pavao,PR,56.99,1
+alto paraiso,PR,56.99,1
+iacri,SP,56.98,2
+inaja,PR,56.9,2
+sao joao do sobrado,ES,55.92,1
+itamira,BA,55.9,2
+jaguaracu,MG,55.9,1
+arapoema,TO,55.9,1
+campo do tenente,PR,55.9,1
+dom macedo costa,BA,55.9,1
+berilo,MG,55.9,1
+itaoca,SP,55.8,1
+taperuaba,CE,55.49,1
+balbinos,SP,55.32,1
+tocos do moji,MG,55.0,1
+porto murtinho,MS,55.0,1
+novo cabrais,RS,55.0,1
+salinas da margarida,BA,55.0,1
+alto sao joao,PR,54.99,1
+amargosa,BA,54.99,1
+pereiras,SP,54.99,1
+canaa,MG,54.99,1
+itapiuna,CE,54.98,2
+carnaiba do sertao,BA,54.98,1
+pouso novo,RS,54.9,1
+santo andre,PB,54.9,1
+sete de setembro,RS,54.9,1
+prata,PB,54.9,1
+guaraciaba,SC,54.9,1
+nossa senhora das gracas,PR,54.8,2
+sento se,BA,53.99,1
+monsenhor paulo,MG,53.99,1
+cajuri,MG,53.9,1
+lebon regis,SC,53.9,1
+angelica,MS,53.9,1
+santana do itarare,PR,53.9,1
+brazabrantes,GO,53.5,2
+presidente nereu,SC,52.99,1
+nova boa vista,RS,52.9,1
+gramado xavier,RS,52.9,1
+cerro grande,RS,52.9,1
+ibirataia,BA,52.8,2
+sao thome das letras,MG,52.8,2
+sao benedito,MG,52.64,1
+piacatu,SP,51.19,1
+nova america,GO,51.0,1
+pacotuba,ES,50.9,1
+vicosa,RN,50.9,1
+padre gonzales,RS,50.0,1
+pedra lavrada,PB,50.0,1
+mossamedes,GO,49.99,1
+serra do salitre,MG,49.99,1
+cocos,BA,49.99,1
+pratapolis,MG,49.99,1
+bandeirantes d'oeste,SP,49.99,1
+nova roma,GO,49.99,1
+amparo da serra,MG,49.95,1
+pinto bandeira,RS,49.9,1
+santa margarida,PR,49.9,1
+ceilandia,DF,49.9,1
+chorrocho,BA,49.9,1
+santana de pirapama,MG,49.9,1
+pureza,RJ,49.9,1
+almirante tamandare do sul,RS,49.9,1
+rio dos cedros,SC,49.9,1
+maribondo,AL,49.9,1
+selbach,RS,49.9,1
+santa terezinha,SC,49.9,1
+quilometro 14 do mutum,ES,49.9,1
+palmeira d oeste,SP,49.9,1
+murici,AL,49.9,1
+miradouro,MG,49.9,1
+santa quiteria do maranhao,MA,49.9,1
+pedra preta,RN,49.9,1
+caparao,MG,49.9,1
+agrolandia,SC,49.9,1
+patis,MG,49.9,1
+calmon,SC,49.9,1
+guaraquecaba,PR,49.9,1
+juruti,PA,49.9,1
+bocaiuva do sul,PR,49.89,2
+corumbatai,SP,49.59,2
+doce grande,PR,49.49,1
+jacutinga,RS,49.39,1
+sao jose do xingu,MT,49.3,1
+bela vista do maranhao,MA,49.0,1
+tamandare,PE,49.0,1
+elisiario,SP,49.0,1
+vitorino,PR,49.0,1
+baguari,MG,49.0,1
+jacareacanga,PA,49.0,1
+iomere,SC,49.0,1
+foz do jordao,PR,49.0,1
+mansidao,BA,49.0,1
+tuiuti,SP,49.0,1
+araguaia,ES,49.0,1
+bodo,RN,48.9,1
+pau d'arco,PA,48.9,1
+nova brescia,RS,48.9,1
+santa lucia,PR,48.9,1
+itaguara,MG,48.89,2
+machadinho,RS,48.0,1
+indiaroba,SE,48.0,1
+ribas do rio pardo,MS,47.9,1
+jacarau,PB,47.81,1
+populina,SP,47.6,1
+tiradentes do sul,RS,46.86,1
+humberto de campos,MA,45.9,1
+amontada,CE,45.9,1
+crominia,GO,45.9,1
+gloria de dourados,MS,45.8,1
+ribeira do amparo,BA,45.0,1
+dias d avila,BA,45.0,1
+sao sebastiao da amoreira,PR,45.0,1
+ibiajara,BA,45.0,1
+queiroz,SP,45.0,1
+antonio martins,RN,45.0,1
+pedra branca,PB,44.99,1
+fenix,PR,44.99,1
+tabuleiro do norte,CE,44.99,1
+apora,BA,44.9,1
+pontao,RS,44.9,1
+baixa grande,BA,44.0,1
+ubai,MG,43.5,1
+candoi,PR,43.0,1
+agisse,SP,43.0,1
+traipu,AL,42.99,1
+cedro do abaete,MG,42.99,1
+guaratinga,BA,42.99,2
+castanheiras,RO,42.9,1
+aribice,BA,42.0,1
+agua nova,RN,42.0,1
+nobres,MT,41.99,1
+passo de camaragibe,AL,41.98,1
+florinia,SP,41.5,1
+ponto dos volantes,MG,41.4,2
+mampituba,RS,40.95,1
+maranhaozinho,MA,40.9,1
+juranda,PR,40.9,2
+siriji,PE,39.99,1
+capela do alto alegre,BA,39.99,1
+ponte alta do norte,SC,39.99,1
+sao benedito do sul,PE,39.99,1
+conceicao da ibitipoca,MG,39.99,1
+vera cruz,RN,39.99,1
+igapora,BA,39.99,1
+terezinha,PE,39.99,1
+riachuelo,SE,39.97,1
+alegria,RS,39.9,1
+varzedo,BA,39.9,1
+girau do ponciano,AL,39.9,1
+desterro de entre rios,MG,39.9,1
+itatiba do sul,RS,39.9,1
+cupira,PE,39.9,1
+itaju do colonia,BA,39.9,1
+mutum parana,RO,39.9,1
+natercia,MG,39.9,1
+mae d'agua,PB,39.89,1
+campo magro,PR,39.8,1
+formoso,GO,39.0,1
+coimbra,MG,38.9,1
+santa maria do salto,MG,38.0,1
+acucena,MG,38.0,1
+belmonte,BA,37.99,1
+passagem franca,MA,37.98,1
+unistalda,RS,37.9,1
+joaima,MG,37.9,1
+pindoretama,CE,37.55,1
+jussiape,BA,37.0,1
+alvorada do gurgueia,PI,37.0,1
+sanga puita,MS,36.9,1
+santana do sobrado,BA,36.9,1
+inocencia,MS,36.9,1
+pedra branca,CE,36.89,2
+lagoa do mato,CE,35.99,1
+boa esperanca do iguacu,PR,35.9,1
+virginia,MG,35.9,1
+divino das laranjeiras,MG,35.9,1
+florania,RN,35.5,1
+sao bentinho,PB,35.0,1
+capistrano,CE,35.0,1
+miravania,MG,35.0,1
+peri mirim,MA,34.99,1
+paraiso das aguas,MS,34.99,1
+sao jorge do oeste,PR,34.9,1
+gabriel monteiro,SP,34.9,1
+antonio goncalves,BA,34.9,1
+teixeira,PB,34.9,1
+martinesia,MG,34.89,1
+parisi,SP,34.49,1
+arvoredo,SC,34.3,1
+jaguarembe,RJ,33.99,1
+vermelho novo,MG,33.87,1
+vitoria das missoes,RS,33.8,1
+damianopolis,GO,33.64,2
+guabiju,RS,33.6,1
+itaicaba,CE,32.99,1
+prudencio thomaz,MS,32.99,1
+colinas,RS,32.99,1
+morro agudo de goias,GO,32.9,1
+santo antonio do taua,PA,32.9,1
+cacimbinhas,AL,32.5,1
+bemposta,RJ,32.0,1
+picada cafe,RS,32.0,1
+jamapara,RJ,32.0,1
+ourem,PA,31.9,1
+sao francisco do brejao,MA,31.9,1
+alexandra,PR,31.9,1
+cabaceiras do paraguacu,BA,31.9,1
+morro vermelho,MG,31.9,1
+barao,RS,31.9,1
+santa cruz do timbo,SC,30.99,1
+lagoa salgada,RN,30.24,1
+dona emma,SC,30.21,1
+senhora dos remedios,MG,29.99,1
+guia lopes da laguna,MS,29.99,1
+vila bela da santissima trindade,MT,29.99,1
+centralina,MG,29.99,1
+coreau,CE,29.99,1
+gongogi,BA,29.99,1
+santa rita de jacutinga,MG,29.99,1
+igrapiuna,BA,29.99,1
+porto grande,AP,29.99,1
+arame,MA,29.99,1
+buriti alegre,GO,29.99,1
+angical do piaui,PI,29.99,1
+segredo,RS,29.94,1
+sao bras,AL,29.9,1
+sulina,PR,29.9,1
+pescador,MG,29.9,1
+antonio carlos,MG,29.9,1
+nova olinda,TO,29.9,1
+marques de souza,RS,29.9,1
+ribeirao cascalheira,MT,29.9,1
+jurema,PE,29.5,1
+monte bonito,RS,29.5,1
+jussara,PR,29.49,1
+pirai do norte,BA,29.49,1
+fernao,SP,29.0,1
+rosario do ivai,PR,29.0,1
+combinado,TO,29.0,1
+caxingo,PI,29.0,1
+boraceia,SP,29.0,1
+indianopolis,MG,28.99,1
+apiacas,MT,28.99,1
+paraiso do sul,RS,28.99,1
+ibicuitinga,CE,28.99,1
+vitoria,PR,28.99,1
+corrego do ouro,RJ,28.9,1
+vargem alegre,RJ,28.9,1
+silveira carvalho,MG,28.9,1
+acajutiba,BA,28.89,1
+barao de juparana,RJ,28.49,1
+rosario,MA,28.12,1
+turmalina,SP,28.0,1
+boa vista do sul,RS,27.99,1
+sao joao de petropolis,ES,27.99,1
+igarape-miri,PA,27.99,1
+laranjal,PR,27.99,1
+sao tome,RN,27.99,1
+novo planalto,GO,27.99,1
+sao felix,BA,27.9,1
+icaraima,PR,27.9,1
+corumbatai do sul,PR,27.49,1
+turvelandia,GO,27.3,1
+ibiracu,ES,27.3,1
+ulianopolis,PA,27.3,1
+sao joao do sabugi,RN,26.9,1
+bom jardim,MA,25.9,1
+eldorado,MS,25.9,1
+coqueiros do sul,RS,25.73,1
+corrego danta,MG,25.4,1
+angelo frechiani,ES,25.32,1
+santana do capivari,MG,25.0,1
+guinda,MG,25.0,1
+nova guarita,MT,25.0,1
+leoberto leal,SC,24.99,1
+flores de goias,GO,24.99,1
+uniao do oeste,SC,24.99,1
+tome-acu,PA,24.99,1
+sitio novo,MA,24.99,1
+sebastiao leal,PI,24.99,1
+desterro do melo,MG,24.9,1
+sobralia,MG,24.9,1
+delfim moreira,MG,24.9,1
+rio grande do piaui,PI,24.9,1
+satiro dias,BA,24.5,1
+mutunopolis,GO,24.41,1
+malhador,SE,23.99,1
+vertentes,PE,23.99,1
+jardim de piranhas,RN,23.9,1
+nova independencia,SP,23.9,1
+novo jardim,TO,23.9,1
+sao sebastiao de campos,RJ,23.8,1
+santa luzia do norte,AL,23.8,1
+ipecaeta,BA,23.4,1
+pedra menina,MG,23.4,1
+monte santo,BA,23.21,1
+jandaia,GO,23.2,1
+cambiasca,RJ,22.99,1
+serio,RS,22.9,1
+nova luzitania,SP,22.9,1
+pareci novo,RS,22.0,1
+vista alegre,RS,22.0,1
+vale do sol,RS,21.99,1
+vicosa,AL,21.9,1
+sertao santana,RS,20.9,1
+francisco santos,PI,20.9,1
+sao miguel do aleixo,SE,20.0,1
+pium,TO,20.0,1
+jardim abc de goias,GO,19.99,1
+monte alegre,RN,19.99,1
+barracao,PR,19.99,1
+cuite velho,MG,19.99,1
+minduri,MG,19.9,1
+santo amaro das brotas,SE,19.9,1
+presidente castello branco,SC,19.9,1
+nova redencao,BA,19.9,1
+tupassi,PR,19.9,1
+sao rafael,RN,19.9,1
+faxinalzinho,RS,19.9,1
+joao dourado,BA,19.9,1
+aparecida d'oeste,SP,19.9,1
+pinhal da serra,RS,19.9,1
+santa maria,RN,19.83,1
+caxambu do sul,SC,19.5,1
+balsa nova,PR,19.45,1
+pires ferreira,CE,18.95,1
+vicosa do ceara,CE,18.95,1
+leopolis,PR,18.9,1
+uniao da serra,RS,18.5,1
+montividiu do norte,GO,17.99,1
+uruana de minas,MG,17.9,1
+macieira,SC,17.46,1
+agudo,RS,17.0,1
+crucilandia,MG,17.0,1
+presidente lucena,RS,16.99,1
+trombas,GO,16.97,1
+santa maria,DF,16.9,1
+travesseiro,RS,16.6,1
+simplicio mendes,PI,16.6,1
+porteiras,CE,16.55,1
+sao bento abade,MG,16.0,1
+amapa do maranhao,MA,15.9,1
+demerval lobao,PI,15.0,1
+missao velha,CE,14.99,1
+ibitiuva,SP,14.9,1
+ouro verde do oeste,PR,14.9,1
+estrela velha,RS,14.9,1
+cabeceiras,GO,14.9,1
+mauriti,CE,14.9,1
+boa ventura,RJ,14.9,1
+duas barras,RJ,14.89,1
+estevao de araujo,MG,14.2,1
+reserva do iguacu,PR,14.0,1
+tracuateua,PA,13.98,1
+nova santa rita,PI,13.98,1
+brejolandia,BA,13.98,1
+jacuipe,BA,13.98,1
+ponto do marambaia,MG,13.7,1
+marcos parente,PI,13.65,1
+canapolis,BA,13.65,1
+tuparece,MG,13.5,1
+cezarina,GO,13.49,1
+vicente dutra,RS,12.99,1
+liberato salzano,RS,12.99,1
+joaquim pires,PI,12.97,1
+varzea grande,PI,12.5,1
+nova resende,MG,10.99,1
+estiva,MG,10.9,1
+planaltina do parana,PR,10.75,1
+bom jardim de goias,GO,10.0,1
+tamboara,PR,8.99,1
+medicilandia,PA,8.99,1
+erico cardoso,BA,8.09,1
+santa maria,RJ,8.0,1
+jenipapo de minas,MG,7.48,1
+senador jose porfirio,PA,6.0,1
+santo antonio do rio abaixo,MG,6.0,1
+sabaudia,PR,5.9,1
+polo petroquimico de triunfo,RS,5.6,1
