@@ -1,0 +1,10 @@
+
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.streamlit/secrets.toml
+
+# Avoid uploading original large datasets
+data/raw/*
+!data/raw/.gitkeep
